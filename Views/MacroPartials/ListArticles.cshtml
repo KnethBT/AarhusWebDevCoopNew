@@ -1,0 +1,17 @@
+﻿@inherits Umbraco.Web.Macros.PartialViewMacroPage
+
+
+@{
+	var selection = CurrentPage.Site().FirstChild("ArticlesMain").Children("ArticlesItem").Where("Visible").OrderBy("CreateDate desc");
+}
+@if (selection.Any())
+{
+	<ul>
+		@foreach(var item in selection){
+			<div class="wrapper">
+				<a href="@item.Url" class="textLink">@item.Name</a>
+				<p>@item.ArticlesTitle</p>
+			</div>
+		}
+	</ul>
+}

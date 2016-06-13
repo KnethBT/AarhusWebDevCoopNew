@@ -1,0 +1,39 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "Master.cshtml";
+}
+
+
+@{ var selection = CurrentPage.Site().FirstChild("ProjectsMain").Children("ProjectsItem").Where("Visible"); }
+
+<h1 class="textHeadline">@Umbraco.Field("sitetitle")</h1>
+	<div>
+<p class="textNormal">@Umbraco.Field("PageContent")</p>
+<div class="DivSeparator"></div>
+
+	@if (CurrentPage.HasValue("HomePageImage"))
+    {
+		<div class="Wrapper">
+        <img src='@CurrentPage.HomePageImage.src' width="40%" height="auto" alt="image"/>
+    	</div>
+	}
+<div/>
+
+<h2 class="textHeadline">Projects</h2>
+	
+<div class="DivSeparator"></div>
+	
+<main class="row" role="main">
+	<ul class="list-group">
+		@if (selection.Any())
+		{
+			foreach (var item in selection)
+			{
+				<div class="col-md-4 col-sm-6 DivProject">		
+						<h4 class="textHeadline"><a href="@item.Url" class="textLink">@item.Name</a></h4>
+						@item.ProjectBody
+				</div>
+			}
+		}	
+	</ul>
+</main>			

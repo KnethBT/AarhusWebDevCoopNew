@@ -1,0 +1,38 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+
+	@{
+	var memberService =
+	ApplicationContext.Current.Services.MemberService;
+	
+	var members = memberService.GetMembersByGroup("Active");
+	var prospectMembers = memberService.GetMembersByGroup("Prospect");
+}
+
+@foreach (var member in members) 
+{
+	<div class="wrapper">
+		<p class="textHeadline">Active</p>
+		<p>
+			@(member.GetValue("firstname") + " "
+			+ member.GetValue("lastname")) <br/>
+			@member.GetValue("address")<br />
+			@(member.GetValue("zip") + " "
+			+ member.GetValue("city"))
+			Mobile: @member.GetValue("mobile")<br />
+		</p>
+	</div>
+}
+
+<div class="DivSeparator"></div>
+
+@foreach (var member in prospectMembers) 
+{
+	<div class="wrapper">
+		<p class="textHeadline">Prospect</p>
+		<p>
+			@(member.GetValue("firstname") + " "
+			+ member.GetValue("lastname")) <br/>
+			Mobile: @member.GetValue("mobile")<br />
+		</p>
+	</div>
+}

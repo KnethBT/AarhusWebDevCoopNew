@@ -1,0 +1,12 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "Master.cshtml";
+}
+
+@{ var selection = CurrentPage.Site().FirstChild("ArticlesMain").Children("ArticlesItem").Where("Visible"); }
+
+@Umbraco.RenderMacro("ListArticles")
+			
+	
+			
+			

@@ -1,0 +1,897 @@
+﻿ 2016-06-07 11:57:58,008 [P10488/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.4.3 application starting on KNETH-LAPTOP
+ 2016-06-07 11:57:58,040 [P10488/D2/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2016-06-07 11:57:58,056 [P10488/D2/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 15ms)
+ 2016-06-07 11:57:58,112 [P10488/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+ 2016-06-07 11:57:58,517 [P10488/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 0 (took 405ms)
+ 2016-06-07 11:57:58,535 [P10488/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2016-06-07 11:57:58,547 [P10488/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 11ms)
+ 2016-06-07 11:57:58,548 [P10488/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2016-06-07 11:57:58,560 [P10488/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 0 (took 12ms)
+ 2016-06-07 11:57:58,576 [P10488/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+ 2016-06-07 11:57:58,587 [P10488/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 11ms)
+ 2016-06-07 11:57:58,588 [P10488/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+ 2016-06-07 11:57:58,603 [P10488/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 0 (took 14ms)
+ 2016-06-07 11:57:58,654 [P10488/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+ 2016-06-07 11:57:58,669 [P10488/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 0 (took 14ms)
+ 2016-06-07 11:57:58,669 [P10488/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+ 2016-06-07 11:57:58,680 [P10488/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 0 (took 10ms)
+ 2016-06-07 11:57:59,597 [P10488/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 1670ms)
+ 2016-06-07 11:58:02,090 [P10488/D2/T11] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://localhost:24097/umbraco (UmbracoModule request)
+ 2016-06-07 11:58:12,745 [P10488/D3/T13] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.4.3 application starting on KNETH-LAPTOP
+ 2016-06-07 11:58:12,784 [P10488/D3/T13] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2016-06-07 11:58:12,796 [P10488/D3/T13] INFO  Umbraco.Core.PluginManager - Hash determined (took 11ms)
+ 2016-06-07 11:58:12,845 [P10488/D3/T13] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+ 2016-06-07 11:58:12,859 [P10488/D3/T13] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 0 (took 14ms)
+ 2016-06-07 11:58:12,881 [P10488/D3/T13] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2016-06-07 11:58:12,882 [P10488/D3/T13] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 0ms)
+ 2016-06-07 11:58:12,882 [P10488/D3/T13] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2016-06-07 11:58:12,883 [P10488/D3/T13] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 0 (took 1ms)
+ 2016-06-07 11:58:12,899 [P10488/D3/T13] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+ 2016-06-07 11:58:12,901 [P10488/D3/T13] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 1ms)
+ 2016-06-07 11:58:12,902 [P10488/D3/T13] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+ 2016-06-07 11:58:12,912 [P10488/D3/T13] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 0 (took 9ms)
+ 2016-06-07 11:58:12,967 [P10488/D3/T13] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+ 2016-06-07 11:58:12,968 [P10488/D3/T13] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 0 (took 1ms)
+ 2016-06-07 11:58:12,969 [P10488/D3/T13] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+ 2016-06-07 11:58:12,970 [P10488/D3/T13] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 0 (took 0ms)
+ 2016-06-07 11:58:13,938 [P10488/D3/T13] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 1286ms)
+ 2016-06-07 11:58:16,441 [P10488/D3/T12] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://localhost:24097/umbraco (UmbracoModule request)
+ 2016-06-07 11:58:32,347 [P10488/D2/T5] INFO  Umbraco.Core.UmbracoApplicationBase - Application shutdown. Details: BinDirChangeOrDirectoryRename
+
+_shutDownMessage=Ændringsbeskeder for kritiske mapper.
+bin dir change or directory rename
+HostingEnvironment initiated shutdown
+Ændringsbeskeder for kritiske mapper.
+bin dir change or directory rename
+Ændringsbeskeder for kritiske mapper.
+bin dir change or directory rename
+Ændringsbeskeder for kritiske mapper.
+bin dir change or directory rename
+HostingEnvironment forårsagede nedlukning
+
+_shutDownStack=   ved System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   ved System.Environment.get_StackTrace()
+   ved System.Web.Hosting.HostingEnvironment.InitiateShutdownInternal()
+   ved System.Web.Hosting.HostingEnvironment.InitiateShutdownWithoutDemand()
+   ved System.Web.HttpRuntime.ShutdownAppDomain(String stackTrace)
+   ved System.Web.HttpRuntime.OnCriticalDirectoryChange(Object sender, FileChangeEvent e)
+   ved System.Web.FileChangesMonitor.OnCriticaldirChange(Object sender, FileChangeEvent e)
+   ved System.Web.DirectoryMonitor.FireNotifications()
+   ved System.Web.Util.WorkItem.CallCallbackWithAssert(WorkItemCallback callback)
+   ved System.Web.Util.WorkItem.OnQueueUserWorkItemCompletion(Object state)
+   ved System.Threading.QueueUserWorkItemCallback.WaitCallback_Context(Object state)
+   ved System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   ved System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   ved System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   ved System.Threading.ThreadPoolWorkQueue.Dispatch()
+   ved System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+ 2016-06-07 11:58:35,287 [P10488/D3/T9] INFO  Umbraco.Web.Install.Controllers.InstallApiController - Executing installation step: Permissions
+ 2016-06-07 11:58:35,302 [P10488/D3/T9] INFO  Umbraco.Web.Install.Controllers.InstallApiController - Step completed (took 15ms)
+ 2016-06-07 11:58:35,353 [P10488/D3/T9] INFO  Umbraco.Web.Install.Controllers.InstallApiController - Executing installation step: Upgrade
+ 2016-06-07 11:58:35,354 [P10488/D3/T9] INFO  Umbraco.Web.Install.Controllers.InstallApiController - Step completed (took 0ms)
+ 2016-06-07 11:58:35,411 [P10488/D3/T9] INFO  Umbraco.Web.Install.Controllers.InstallApiController - Executing installation step: DatabaseInstall
+ 2016-06-07 11:58:35,413 [P10488/D3/T9] INFO  Umbraco.Core.DatabaseContext - Database configuration status: Started
+ 2016-06-07 11:58:35,414 [P10488/D3/T9] INFO  Umbraco.Core.DatabaseContext - Database requires upgrade
+ 2016-06-07 11:58:35,415 [P10488/D3/T9] INFO  Umbraco.Web.Install.Controllers.InstallApiController - Step completed (took 3ms)
+ 2016-06-07 11:58:35,463 [P10488/D3/T12] INFO  Umbraco.Web.Install.Controllers.InstallApiController - Executing installation step: DatabaseUpgrade
+ 2016-06-07 11:58:35,465 [P10488/D3/T12] INFO  Umbraco.Web.Install.InstallSteps.DatabaseUpgradeStep - Running 'Upgrade' service
+ 2016-06-07 11:58:35,467 [P10488/D3/T12] INFO  Umbraco.Core.DatabaseContext - Database upgrade started
+ 2016-06-07 11:58:35,476 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Initializing database migrations
+ 2016-06-07 11:58:35,482 [P10488/D3/T12] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Persistence.Migrations.IMigration
+ 2016-06-07 11:58:35,520 [P10488/D3/T12] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Persistence.Migrations.IMigration, found 0 (took 38ms)
+ 2016-06-07 11:58:35,614 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AddRelationTypeForDocumentOnDelete' to context
+ 2016-06-07 11:58:35,664 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'CreateCacheInstructionTable' to context
+ 2016-06-07 11:58:36,623 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'MigrateAndRemoveTemplateMasterColumn' to context
+ 2016-06-07 11:58:36,965 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'MigrateStylesheetDataToFile' to context
+ 2016-06-07 11:58:37,020 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'RemoveStylesheetDataAndTables' to context
+ 2016-06-07 11:58:37,098 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'RemoveLanguageLocaleColumn' to context
+ 2016-06-07 11:58:37,173 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'UpdateUniqueIdToHaveCorrectIndexType' to context
+ 2016-06-07 11:58:37,213 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AddPublicAccessTables' to context
+ 2016-06-07 11:58:37,631 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'MovePublicAccessXmlDataToDb' to context
+ 2016-06-07 11:58:37,726 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'RemoveHelpTextColumn' to context
+ 2016-06-07 11:58:37,776 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AddExternalLoginsTable' to context
+ 2016-06-07 11:58:37,852 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AddUserColumns' to context
+ 2016-06-07 11:58:37,897 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AddMigrationTable' to context
+ 2016-06-07 11:58:38,173 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AddUniqueIdPropertyTypeColumn' to context
+ 2016-06-07 11:58:38,547 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AddForeignKeysForLanguageAndDictionaryTables' to context
+ 2016-06-07 11:58:38,634 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'RemoveUmbracoLoginsTable' to context
+ 2016-06-07 11:58:38,765 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AddServerRegistrationColumnsAndLock' to context
+ 2016-06-07 11:58:38,814 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'CleanUpCorruptedPublishedFlags' to context
+ 2016-06-07 11:58:38,864 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'UpdateUserLanguagesToIsoCode' to context
+ 2016-06-07 11:58:38,865 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'EnsureMigrationsTableIdentityIsCorrect' to context
+ 2016-06-07 11:58:38,946 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AddDataDecimalColumn' to context
+ 2016-06-07 11:58:39,037 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AddUniqueIdPropertyTypeGroupColumn' to context
+ 2016-06-07 11:58:39,203 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'EnsureContentTypeUniqueIdsAreConsistent' to context
+ 2016-06-07 11:58:39,244 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'FixListViewMediaSortOrder' to context
+ 2016-06-07 11:58:39,455 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'RemoveParentIdPropertyTypeGroupColumn' to context
+ 2016-06-07 11:58:39,502 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AddUmbracoDeployTables' to context
+ 2016-06-07 11:58:39,545 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 1: INSERT INTO [umbracoRelationType] ([dual],[parentObjectType],[childObjectType],[name],[alias]) VALUES (0,'c66ba18e-eaf3-4cff-8a22-41b16d66a972','c66ba18e-eaf3-4cff-8a22-41b16d66a972','Relate Parent Document On Delete','relateParentDocumentOnDelete');
+
+ 2016-06-07 11:58:39,565 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 2: CREATE TABLE [umbracoCacheInstruction] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[utcStamp] DATETIME NOT NULL,
+[jsonInstruction] NTEXT NOT NULL,
+[originated] NVARCHAR(500) NOT NULL)
+
+ 2016-06-07 11:58:39,568 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 3: ALTER TABLE [umbracoCacheInstruction] ADD CONSTRAINT [PK_umbracoCacheInstruction] PRIMARY KEY ([id])
+
+ 2016-06-07 11:58:39,571 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 4: UPDATE cmsTemplate SET master = NULL WHERE [master] IS NOT NULL AND [master] NOT IN (SELECT nodeId FROM (SELECT * FROM cmsTemplate a) b)
+
+ 2016-06-07 11:58:39,579 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE umbracoNode SET parentID=@parentId WHERE id=@nodeId
+ 2016-06-07 11:58:39,658 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE umbracoNode SET parentID=@parentId WHERE id=@nodeId
+ 2016-06-07 11:58:39,659 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE umbracoNode SET parentID=@parentId WHERE id=@nodeId
+ 2016-06-07 11:58:39,660 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE umbracoNode SET parentID=@parentId WHERE id=@nodeId
+ 2016-06-07 11:58:39,661 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE umbracoNode SET parentID=@parentId WHERE id=@nodeId
+ 2016-06-07 11:58:39,662 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE umbracoNode SET parentID=@parentId WHERE id=@nodeId
+ 2016-06-07 11:58:39,663 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE umbracoNode SET parentID=@parentId WHERE id=@nodeId
+ 2016-06-07 11:58:39,665 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE umbracoNode SET parentID=@parentId WHERE id=@nodeId
+ 2016-06-07 11:58:39,666 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE umbracoNode SET parentID=@parentId WHERE id=@nodeId
+ 2016-06-07 11:58:39,667 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE umbracoNode SET parentID=@parentId WHERE id=@nodeId
+ 2016-06-07 11:58:39,669 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE umbracoNode SET parentID=@parentId WHERE id=@nodeId
+ 2016-06-07 11:58:39,671 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE umbracoNode SET parentID=@parentId WHERE id=@nodeId
+ 2016-06-07 11:58:39,672 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE umbracoNode SET parentID=@parentId WHERE id=@nodeId
+ 2016-06-07 11:58:39,678 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE [umbracoNode] SET path=@buildPath WHERE id=@nodeId
+ 2016-06-07 11:58:39,987 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE [umbracoNode] SET path=@buildPath WHERE id=@nodeId
+ 2016-06-07 11:58:39,989 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE [umbracoNode] SET path=@buildPath WHERE id=@nodeId
+ 2016-06-07 11:58:39,990 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE [umbracoNode] SET path=@buildPath WHERE id=@nodeId
+ 2016-06-07 11:58:39,992 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE [umbracoNode] SET path=@buildPath WHERE id=@nodeId
+ 2016-06-07 11:58:39,993 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE [umbracoNode] SET path=@buildPath WHERE id=@nodeId
+ 2016-06-07 11:58:39,995 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE [umbracoNode] SET path=@buildPath WHERE id=@nodeId
+ 2016-06-07 11:58:39,996 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE [umbracoNode] SET path=@buildPath WHERE id=@nodeId
+ 2016-06-07 11:58:39,998 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE [umbracoNode] SET path=@buildPath WHERE id=@nodeId
+ 2016-06-07 11:58:39,999 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE [umbracoNode] SET path=@buildPath WHERE id=@nodeId
+ 2016-06-07 11:58:40,001 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE [umbracoNode] SET path=@buildPath WHERE id=@nodeId
+ 2016-06-07 11:58:40,002 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE [umbracoNode] SET path=@buildPath WHERE id=@nodeId
+ 2016-06-07 11:58:40,004 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE [umbracoNode] SET path=@buildPath WHERE id=@nodeId
+ 2016-06-07 11:58:40,007 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 7: ALTER TABLE [cmsTemplate] DROP CONSTRAINT [FK_cmsTemplate_cmsTemplate]
+
+ 2016-06-07 11:58:40,009 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 8: ALTER TABLE [cmsTemplate] DROP COLUMN [master]
+
+ 2016-06-07 11:58:40,013 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 9: DELETE FROM [cmsStylesheetProperty] WHERE 1 = 1
+
+ 2016-06-07 11:58:40,015 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 10: DELETE FROM [umbracoNode] WHERE [nodeObjectType] = '5555da4f-a123-42b2-4488-dcdfb25e4111'
+
+ 2016-06-07 11:58:40,018 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 11: DROP TABLE [cmsStylesheetProperty]
+
+ 2016-06-07 11:58:40,137 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 12: DELETE FROM [cmsStylesheet] WHERE 1 = 1
+
+ 2016-06-07 11:58:40,140 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 13: DELETE FROM [umbracoNode] WHERE [nodeObjectType] = '9f68da4f-a3a8-44c2-8226-dcbd125e4840'
+
+ 2016-06-07 11:58:40,156 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 14: DROP TABLE [cmsStylesheet]
+
+ 2016-06-07 11:58:40,157 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 15: ALTER TABLE [cmsContentVersion] DROP COLUMN [LanguageLocale]
+
+ 2016-06-07 11:58:40,160 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 16: DROP INDEX [umbracoNode].[IX_umbracoNodeUniqueID]
+
+ 2016-06-07 11:58:40,165 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 17: CREATE UNIQUE NONCLUSTERED INDEX [IX_umbracoNode_uniqueID] ON [umbracoNode] ([uniqueID])
+
+ 2016-06-07 11:58:40,167 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 18: CREATE TABLE [umbracoAccess] ([id] UniqueIdentifier NOT NULL,
+[nodeId] INTEGER NOT NULL,
+[loginNodeId] INTEGER NOT NULL,
+[noAccessNodeId] INTEGER NOT NULL,
+[createDate] DATETIME NOT NULL CONSTRAINT [DF_umbracoAccess_createDate] DEFAULT (GETDATE()),
+[updateDate] DATETIME NOT NULL CONSTRAINT [DF_umbracoAccess_updateDate] DEFAULT (GETDATE()))
+
+ 2016-06-07 11:58:40,173 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 19: ALTER TABLE [umbracoAccess] ADD CONSTRAINT [PK_umbracoAccess] PRIMARY KEY ([id])
+
+ 2016-06-07 11:58:40,175 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 20: ALTER TABLE [umbracoAccess] ADD CONSTRAINT [FK_umbracoAccess_umbracoNode_id] FOREIGN KEY ([nodeId]) REFERENCES [umbracoNode] ([id])
+
+ 2016-06-07 11:58:40,177 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 21: ALTER TABLE [umbracoAccess] ADD CONSTRAINT [FK_umbracoAccess_umbracoNode_id1] FOREIGN KEY ([loginNodeId]) REFERENCES [umbracoNode] ([id])
+
+ 2016-06-07 11:58:40,179 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 22: ALTER TABLE [umbracoAccess] ADD CONSTRAINT [FK_umbracoAccess_umbracoNode_id2] FOREIGN KEY ([noAccessNodeId]) REFERENCES [umbracoNode] ([id])
+
+ 2016-06-07 11:58:40,181 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 23: CREATE UNIQUE NONCLUSTERED INDEX [IX_umbracoAccess_nodeId] ON [umbracoAccess] ([nodeId])
+
+ 2016-06-07 11:58:40,184 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 24: CREATE TABLE [umbracoAccessRule] ([id] UniqueIdentifier NOT NULL,
+[accessId] UniqueIdentifier NOT NULL,
+[ruleValue] NVARCHAR(255) NOT NULL,
+[ruleType] NVARCHAR(255) NOT NULL,
+[createDate] DATETIME NOT NULL CONSTRAINT [DF_umbracoAccessRule_createDate] DEFAULT (GETDATE()),
+[updateDate] DATETIME NOT NULL CONSTRAINT [DF_umbracoAccessRule_updateDate] DEFAULT (GETDATE()))
+
+ 2016-06-07 11:58:40,186 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 25: ALTER TABLE [umbracoAccessRule] ADD CONSTRAINT [PK_umbracoAccessRule] PRIMARY KEY ([id])
+
+ 2016-06-07 11:58:40,188 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 26: ALTER TABLE [umbracoAccessRule] ADD CONSTRAINT [FK_umbracoAccessRule_umbracoAccess_id] FOREIGN KEY ([accessId]) REFERENCES [umbracoAccess] ([id])
+
+ 2016-06-07 11:58:40,189 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 27: CREATE UNIQUE NONCLUSTERED INDEX [IX_umbracoAccessRule] ON [umbracoAccessRule] ([accessId],[ruleValue],[ruleType])
+
+ 2016-06-07 11:58:40,190 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 28: INSERT INTO [umbracoAccess] ([id],[nodeId],[loginNodeId],[noAccessNodeId],[createDate],[updateDate]) VALUES ('9bc5f090-2e79-40c2-bb6e-558f7acb0fd7',1126,1120,1110,'20160607 11:58:37','20160607 11:58:37');
+
+ 2016-06-07 11:58:40,195 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 29: INSERT INTO [umbracoAccessRule] ([id],[accessId],[ruleValue],[ruleType],[createDate],[updateDate]) VALUES ('6dc62f65-e08d-4171-be18-3b72bce600d4','9bc5f090-2e79-40c2-bb6e-558f7acb0fd7','Active','MemberRole','20160607 11:58:37','20160607 11:58:37');
+
+ 2016-06-07 11:58:40,196 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 30: INSERT INTO [umbracoAccess] ([id],[nodeId],[loginNodeId],[noAccessNodeId],[createDate],[updateDate]) VALUES ('64ed5461-4751-495d-9fa8-7ab8f6dcd204',1095,1120,1110,'20160607 11:58:37','20160607 11:58:37');
+
+ 2016-06-07 11:58:40,197 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 31: INSERT INTO [umbracoAccessRule] ([id],[accessId],[ruleValue],[ruleType],[createDate],[updateDate]) VALUES ('a76dce73-a641-4e19-ad48-df9fdb7d2b5f','64ed5461-4751-495d-9fa8-7ab8f6dcd204','Active','MemberRole','20160607 11:58:37','20160607 11:58:37');
+
+ 2016-06-07 11:58:40,198 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 32: INSERT INTO [umbracoAccess] ([id],[nodeId],[loginNodeId],[noAccessNodeId],[createDate],[updateDate]) VALUES ('61c3662e-185d-4f06-8bc4-8389150907ad',1128,1120,1110,'20160607 11:58:37','20160607 11:58:37');
+
+ 2016-06-07 11:58:40,200 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 33: INSERT INTO [umbracoAccessRule] ([id],[accessId],[ruleValue],[ruleType],[createDate],[updateDate]) VALUES ('d04cd17c-a5b0-470c-b4cc-8d1b29946966','61c3662e-185d-4f06-8bc4-8389150907ad','Active','MemberRole','20160607 11:58:37','20160607 11:58:37');
+
+ 2016-06-07 11:58:40,201 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 34: ALTER TABLE [cmsPropertyType] DROP COLUMN [helpText]
+
+ 2016-06-07 11:58:40,206 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 35: CREATE TABLE [umbracoExternalLogin] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[userId] INTEGER NOT NULL,
+[loginProvider] NVARCHAR(4000) NOT NULL,
+[providerKey] NVARCHAR(4000) NOT NULL,
+[createDate] DATETIME NOT NULL CONSTRAINT [DF_umbracoExternalLogin_createDate] DEFAULT (GETDATE()))
+
+ 2016-06-07 11:58:40,207 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 36: ALTER TABLE [umbracoExternalLogin] ADD CONSTRAINT [PK_umbracoExternalLogin] PRIMARY KEY ([id])
+
+ 2016-06-07 11:58:40,208 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 37: ALTER TABLE [umbracoExternalLogin] ADD CONSTRAINT [FK_umbracoExternalLogin_umbracoUser_id] FOREIGN KEY ([userId]) REFERENCES [umbracoUser] ([id])
+
+ 2016-06-07 11:58:40,214 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 38: ALTER TABLE [umbracoUser] ADD [securityStampToken] NVARCHAR(255) NULL
+
+ 2016-06-07 11:58:40,217 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 39: ALTER TABLE [umbracoUser] ADD [failedLoginAttempts] INTEGER NULL
+
+ 2016-06-07 11:58:40,217 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 40: ALTER TABLE [umbracoUser] ADD [lastLockoutDate] DATETIME NULL
+
+ 2016-06-07 11:58:40,218 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 41: ALTER TABLE [umbracoUser] ADD [lastPasswordChangeDate] DATETIME NULL
+
+ 2016-06-07 11:58:40,220 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 42: ALTER TABLE [umbracoUser] ADD [lastLoginDate] DATETIME NULL
+
+ 2016-06-07 11:58:40,221 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 43: CREATE TABLE [umbracoMigration] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[name] NVARCHAR(255) NOT NULL,
+[version] NVARCHAR(50) NOT NULL,
+[createDate] DATETIME NOT NULL CONSTRAINT [DF_umbracoMigration_createDate] DEFAULT (GETDATE()))
+
+ 2016-06-07 11:58:40,222 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 44: ALTER TABLE [umbracoMigration] ADD CONSTRAINT [PK_umbracoMigrations] PRIMARY KEY ([id])
+
+ 2016-06-07 11:58:40,223 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 45: CREATE UNIQUE NONCLUSTERED INDEX [IX_umbracoMigration] ON [umbracoMigration] ([name],[version])
+
+ 2016-06-07 11:58:40,225 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 46: ALTER TABLE [cmsPropertyType] ADD [uniqueID] UniqueIdentifier NOT NULL CONSTRAINT [DF_cmsPropertyType_uniqueID] DEFAULT (NEWID())
+
+ 2016-06-07 11:58:40,226 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 47: CREATE UNIQUE NONCLUSTERED INDEX [IX_cmsPropertyTypeUniqueID] ON [cmsPropertyType] ([uniqueID])
+
+ 2016-06-07 11:58:40,229 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 48: UPDATE [cmsPropertyType] SET [uniqueID] = '58969489-76b9-1d76-3e89-239461d8e936' WHERE [id] = 27
+
+ 2016-06-07 11:58:40,230 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 49: UPDATE [cmsPropertyType] SET [uniqueID] = '553cb792-b25b-2f8f-0e35-a3ab8f84ee75' WHERE [id] = 6
+
+ 2016-06-07 11:58:40,232 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 50: UPDATE [cmsPropertyType] SET [uniqueID] = '2d022ec0-f59d-85d9-04b9-b369a0f93543' WHERE [id] = 7
+
+ 2016-06-07 11:58:40,233 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 51: UPDATE [cmsPropertyType] SET [uniqueID] = 'e8145ddd-c1de-80ee-cc83-6ae95e3674b7' WHERE [id] = 8
+
+ 2016-06-07 11:58:40,234 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 52: UPDATE [cmsPropertyType] SET [uniqueID] = '735fb031-d955-0b82-d68d-b2e6c690aaa8' WHERE [id] = 9
+
+ 2016-06-07 11:58:40,235 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 53: UPDATE [cmsPropertyType] SET [uniqueID] = '1bd732af-715a-a03e-fd7b-98bd67917a6c' WHERE [id] = 10
+
+ 2016-06-07 11:58:40,236 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 54: UPDATE [cmsPropertyType] SET [uniqueID] = '784ebab6-dda1-d885-8c0e-62373c7098f0' WHERE [id] = 24
+
+ 2016-06-07 11:58:40,237 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 55: UPDATE [cmsPropertyType] SET [uniqueID] = '8d006b3a-b1b6-7496-0ebe-4b00271861dd' WHERE [id] = 25
+
+ 2016-06-07 11:58:40,238 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 56: UPDATE [cmsPropertyType] SET [uniqueID] = 'c4112ea3-2d58-43f0-0422-cc4da6146572' WHERE [id] = 26
+
+ 2016-06-07 11:58:40,239 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 57: UPDATE [cmsPropertyType] SET [uniqueID] = 'a25a5fb8-b106-41d0-87ee-318c2487de72' WHERE [id] = 28
+
+ 2016-06-07 11:58:40,240 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 58: UPDATE [cmsPropertyType] SET [uniqueID] = '55f85b5e-b3c8-a788-4807-4ea239bd9723' WHERE [id] = 29
+
+ 2016-06-07 11:58:40,241 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 59: UPDATE [cmsPropertyType] SET [uniqueID] = 'ea3d09c7-108f-3187-795a-fa2078dbcc17' WHERE [id] = 30
+
+ 2016-06-07 11:58:40,242 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 60: UPDATE [cmsPropertyType] SET [uniqueID] = '063dfcdc-a103-a5fa-8114-09760c0d4a00' WHERE [id] = 31
+
+ 2016-06-07 11:58:40,243 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 61: UPDATE [cmsPropertyType] SET [uniqueID] = '98266fcb-1c4c-3069-bc45-d9892ea3aaf0' WHERE [id] = 32
+
+ 2016-06-07 11:58:40,244 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 62: UPDATE [cmsPropertyType] SET [uniqueID] = '077bb565-48c8-c37d-0b31-feb0d07824ef' WHERE [id] = 33
+
+ 2016-06-07 11:58:40,244 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 63: UPDATE [cmsPropertyType] SET [uniqueID] = 'b9074e2d-4798-5d11-02b3-31c0594651d7' WHERE [id] = 34
+
+ 2016-06-07 11:58:40,245 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 64: UPDATE [cmsPropertyType] SET [uniqueID] = 'b9f53c38-e250-30c4-2767-3a52423028fa' WHERE [id] = 53
+
+ 2016-06-07 11:58:40,246 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 65: UPDATE [cmsPropertyType] SET [uniqueID] = '372fbd1e-1d00-2d8a-1e67-87807dfe9a5c' WHERE [id] = 52
+
+ 2016-06-07 11:58:40,250 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 66: UPDATE [cmsPropertyType] SET [uniqueID] = '39dee6c3-1e67-07f6-c144-2e6efb5f76d0' WHERE [id] = 101
+
+ 2016-06-07 11:58:40,251 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 67: UPDATE [cmsPropertyType] SET [uniqueID] = '162bb7a8-9e80-ef92-1d24-55979740a41a' WHERE [id] = 54
+
+ 2016-06-07 11:58:40,253 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 68: UPDATE [cmsPropertyType] SET [uniqueID] = '1a27f9c0-1f55-c9ac-6717-21d33fa571c7' WHERE [id] = 99
+
+ 2016-06-07 11:58:40,255 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 69: UPDATE [cmsPropertyType] SET [uniqueID] = '0704b068-af38-94f0-b2ae-e77c5583c0b8' WHERE [id] = 100
+
+ 2016-06-07 11:58:40,257 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 70: UPDATE [cmsPropertyType] SET [uniqueID] = 'e9f4f4bb-5d48-4f33-0c67-4bfabd554d36' WHERE [id] = 102
+
+ 2016-06-07 11:58:40,258 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 71: UPDATE [cmsPropertyType] SET [uniqueID] = 'c7619f4d-b853-31d3-51e3-bc0fa2b86276' WHERE [id] = 103
+
+ 2016-06-07 11:58:40,260 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 72: UPDATE [cmsPropertyType] SET [uniqueID] = '97caffbc-8fc1-4a2b-fcac-55a1a41c04c1' WHERE [id] = 104
+
+ 2016-06-07 11:58:40,261 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 73: UPDATE [cmsPropertyType] SET [uniqueID] = '7189d45b-e523-fc13-cc42-7fb0ee7e8e98' WHERE [id] = 114
+
+ 2016-06-07 11:58:40,262 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 74: UPDATE [cmsPropertyType] SET [uniqueID] = 'a74158c8-c291-734b-7fa6-7fa24ab85fb7' WHERE [id] = 115
+
+ 2016-06-07 11:58:40,263 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 75: UPDATE [cmsPropertyType] SET [uniqueID] = '288f33c9-5a39-b134-ff4e-2993ea6c6af6' WHERE [id] = 112
+
+ 2016-06-07 11:58:40,265 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 76: UPDATE [cmsPropertyType] SET [uniqueID] = 'b47f3b13-4e7d-e407-abd7-2efafe67a4e4' WHERE [id] = 113
+
+ 2016-06-07 11:58:40,266 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 77: UPDATE [cmsPropertyType] SET [uniqueID] = 'ea09a4c7-df24-d96b-a3b9-83bba6437ef5' WHERE [id] = 105
+
+ 2016-06-07 11:58:40,267 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 78: UPDATE [cmsPropertyType] SET [uniqueID] = '052b12a3-954a-4101-85d0-78ce8a9c3079' WHERE [id] = 106
+
+ 2016-06-07 11:58:40,270 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 79: UPDATE [cmsPropertyType] SET [uniqueID] = 'abcade16-f1df-5875-1747-0b101507a799' WHERE [id] = 107
+
+ 2016-06-07 11:58:40,271 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 80: UPDATE [cmsPropertyType] SET [uniqueID] = '4d538c3a-1cd3-4355-ed31-cfe1c28a59ad' WHERE [id] = 64
+
+ 2016-06-07 11:58:40,273 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 81: UPDATE [cmsPropertyType] SET [uniqueID] = '2015aca3-c5db-067d-3bb9-d3642f1f0536' WHERE [id] = 65
+
+ 2016-06-07 11:58:40,274 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 82: UPDATE [cmsPropertyType] SET [uniqueID] = '39338e9d-dc20-d59f-b156-5c5bd7acaf3b' WHERE [id] = 66
+
+ 2016-06-07 11:58:40,275 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 83: UPDATE [cmsPropertyType] SET [uniqueID] = '14de7a91-f21b-240e-e151-f0b761d12673' WHERE [id] = 67
+
+ 2016-06-07 11:58:40,276 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 84: UPDATE [cmsPropertyType] SET [uniqueID] = '8cbb44ba-275c-fc50-affa-d0cef589e53e' WHERE [id] = 68
+
+ 2016-06-07 11:58:40,277 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 85: UPDATE [cmsPropertyType] SET [uniqueID] = 'cdad4101-7014-d5a6-ea95-b08bec19eec2' WHERE [id] = 69
+
+ 2016-06-07 11:58:40,278 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 86: UPDATE [cmsPropertyType] SET [uniqueID] = '6c2090b3-625c-9050-b8d8-a2d8ed6ea61e' WHERE [id] = 70
+
+ 2016-06-07 11:58:40,280 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 87: UPDATE [cmsPropertyType] SET [uniqueID] = '0bfeb2af-7efc-9d2f-26d5-6eefa1bdc491' WHERE [id] = 71
+
+ 2016-06-07 11:58:40,281 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 88: UPDATE [cmsPropertyType] SET [uniqueID] = 'bf23b093-449a-4c28-235d-cfbd1171ce78' WHERE [id] = 72
+
+ 2016-06-07 11:58:40,282 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 89: UPDATE [cmsPropertyType] SET [uniqueID] = '5b227dd3-b8ef-ad48-7f61-3e5a2c416818' WHERE [id] = 86
+
+ 2016-06-07 11:58:40,283 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 90: UPDATE [cmsPropertyType] SET [uniqueID] = '87211ef1-52fa-bf48-c1c4-817001f350c3' WHERE [id] = 87
+
+ 2016-06-07 11:58:40,284 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 91: UPDATE [cmsPropertyType] SET [uniqueID] = '5e43e9d2-4bb6-c6ef-8568-fe5a783da5e6' WHERE [id] = 88
+
+ 2016-06-07 11:58:40,285 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 92: UPDATE [cmsPropertyType] SET [uniqueID] = '824906f7-074b-c7c3-5bb6-bd71c96a6bc9' WHERE [id] = 89
+
+ 2016-06-07 11:58:40,289 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 93: UPDATE [cmsPropertyType] SET [uniqueID] = '9f343e17-d561-680e-05c8-d844fbed3a22' WHERE [id] = 90
+
+ 2016-06-07 11:58:40,291 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 94: UPDATE [cmsPropertyType] SET [uniqueID] = 'b60a404d-36ac-e6b9-ea8f-d920c4441eeb' WHERE [id] = 91
+
+ 2016-06-07 11:58:40,292 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 95: UPDATE [cmsPropertyType] SET [uniqueID] = '24dd8b70-f87f-8c64-b5bd-6e382aa8b0d2' WHERE [id] = 92
+
+ 2016-06-07 11:58:40,293 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 96: UPDATE [cmsPropertyType] SET [uniqueID] = 'f9e1b676-060d-e277-08d7-61268da9f218' WHERE [id] = 73
+
+ 2016-06-07 11:58:40,294 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 97: UPDATE [cmsPropertyType] SET [uniqueID] = '98d98b12-c0bc-afb3-cdc1-ab69d03957bb' WHERE [id] = 74
+
+ 2016-06-07 11:58:40,295 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 98: UPDATE [cmsPropertyType] SET [uniqueID] = '4c0217ad-eb8e-8284-1821-bdf8f6c47d4d' WHERE [id] = 75
+
+ 2016-06-07 11:58:40,298 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 99: UPDATE [cmsPropertyType] SET [uniqueID] = 'eccd7f9a-c04f-9905-33c9-5bf02426a6bf' WHERE [id] = 76
+
+ 2016-06-07 11:58:40,299 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 100: UPDATE [cmsPropertyType] SET [uniqueID] = 'fdb2ecef-e33d-4cc4-ed71-c7f9a28649d3' WHERE [id] = 77
+
+ 2016-06-07 11:58:40,300 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 101: UPDATE [cmsPropertyType] SET [uniqueID] = '73130946-e36a-d58c-f187-33adf13a4d45' WHERE [id] = 78
+
+ 2016-06-07 11:58:40,301 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 102: UPDATE [cmsPropertyType] SET [uniqueID] = '7ff39822-f407-e3e0-5f04-7a6fcc2f75e6' WHERE [id] = 79
+
+ 2016-06-07 11:58:40,303 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 103: UPDATE [cmsPropertyType] SET [uniqueID] = '4103b5e3-ad6a-a8cd-9d98-ed1928d9edfc' WHERE [id] = 80
+
+ 2016-06-07 11:58:40,305 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 104: UPDATE [cmsPropertyType] SET [uniqueID] = '07fdd967-9e0a-47e4-3096-4a69ced649ef' WHERE [id] = 81
+
+ 2016-06-07 11:58:40,306 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 105: UPDATE [cmsPropertyType] SET [uniqueID] = '1e399120-917b-9869-203a-e9be138208d4' WHERE [id] = 83
+
+ 2016-06-07 11:58:40,307 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 106: UPDATE [cmsPropertyType] SET [uniqueID] = '0914b260-f10b-2fdd-2688-ff65507ab503' WHERE [id] = 84
+
+ 2016-06-07 11:58:40,308 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 107: UPDATE [cmsPropertyType] SET [uniqueID] = '00db3419-9c0d-bf7c-7159-72649e97af23' WHERE [id] = 85
+
+ 2016-06-07 11:58:40,309 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 108: UPDATE [cmsPropertyType] SET [uniqueID] = 'b4e47c3a-dc6a-f644-95d9-f34d4ec64375' WHERE [id] = 116
+
+ 2016-06-07 11:58:40,310 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 109: UPDATE [cmsPropertyType] SET [uniqueID] = '47614f14-5bdb-6c99-f3c4-f58591772361' WHERE [id] = 117
+
+ 2016-06-07 11:58:40,311 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 110: UPDATE [cmsPropertyType] SET [uniqueID] = '603685ed-36c2-f111-481f-93765fca6718' WHERE [id] = 118
+
+ 2016-06-07 11:58:40,312 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 111: UPDATE [cmsPropertyType] SET [uniqueID] = '0ede3f90-0b42-e91a-9e33-f0fea8abe62f' WHERE [id] = 119
+
+ 2016-06-07 11:58:40,313 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 112: UPDATE [cmsPropertyType] SET [uniqueID] = 'ff6aee99-8174-ec9f-49d3-af8de8429179' WHERE [id] = 120
+
+ 2016-06-07 11:58:40,315 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 113: UPDATE [cmsPropertyType] SET [uniqueID] = '03fec2cc-8c1e-c011-c599-67770f663496' WHERE [id] = 108
+
+ 2016-06-07 11:58:40,316 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 114: UPDATE [cmsPropertyType] SET [uniqueID] = 'b87aa5d4-dd49-93af-b0d4-325d79cc7590' WHERE [id] = 109
+
+ 2016-06-07 11:58:40,317 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 115: UPDATE [cmsPropertyType] SET [uniqueID] = 'a5250c9c-70d4-c14c-1eb6-e200c2d85794' WHERE [id] = 110
+
+ 2016-06-07 11:58:40,318 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 116: UPDATE [cmsPropertyType] SET [uniqueID] = '3e17c784-794e-da1d-93fc-351050b2ad91' WHERE [id] = 111
+
+ 2016-06-07 11:58:40,319 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 117: ALTER TABLE [cmsLanguageText] ADD CONSTRAINT [FK_cmsLanguageText_umbracoLanguage_id] FOREIGN KEY ([languageId]) REFERENCES [umbracoLanguage] ([id])
+
+ 2016-06-07 11:58:40,324 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 118: ALTER TABLE [cmsDictionary] ALTER COLUMN [parent] UniqueIdentifier NULL
+
+ 2016-06-07 11:58:40,328 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 119: ALTER TABLE [cmsDictionary] ADD CONSTRAINT [FK_cmsDictionary_cmsDictionary_id] FOREIGN KEY ([parent]) REFERENCES [cmsDictionary] ([id])
+
+ 2016-06-07 11:58:40,331 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 120: DROP TABLE [umbracoUserLogins]
+
+ 2016-06-07 11:58:40,333 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 121: ALTER TABLE [umbracoServer] ADD [isMaster] BIT NOT NULL CONSTRAINT [DF_umbracoServer_isMaster] DEFAULT ('0')
+
+ 2016-06-07 11:58:40,337 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 122: SET IDENTITY_INSERT [umbracoNode] ON;
+
+ 2016-06-07 11:58:40,338 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 122: INSERT INTO [umbracoNode] ([id],[trashed],[parentId],[nodeUser],[level],[path],[sortOrder],[uniqueId],[text],[nodeObjectType],[createDate]) VALUES (-331,0,-1,0,1,'-1,-331',0,'0af5e610-a310-4b6f-925f-e928d5416af7','LOCK: Servers','87a9f1ff-b1e4-4a25-babb-465a4a47ec41','20160607 11:58:38');
+
+ 2016-06-07 11:58:40,339 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 122: SET IDENTITY_INSERT [umbracoNode] OFF;
+
+ 2016-06-07 11:58:40,345 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 124: DELETE FROM [umbracoMigration] WHERE 1 = 1
+
+ 2016-06-07 11:58:40,347 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 126: ALTER TABLE [cmsPropertyData] ADD [dataDecimal] DECIMAL(20,9) NULL
+
+ 2016-06-07 11:58:40,348 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 127: ALTER TABLE [cmsPropertyTypeGroup] ADD [uniqueID] UniqueIdentifier NOT NULL CONSTRAINT [DF_cmsPropertyTypeGroup_uniqueID] DEFAULT (NEWID())
+
+ 2016-06-07 11:58:40,350 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 128: CREATE UNIQUE NONCLUSTERED INDEX [IX_cmsPropertyTypeGroupUniqueID] ON [cmsPropertyTypeGroup] ([uniqueID])
+
+ 2016-06-07 11:58:40,747 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 130: UPDATE [umbracoNode] SET [uniqueID] = 'd96f6272-7598-8bad-e91c-37fa1d18af87' WHERE [id] = 1044
+
+ 2016-06-07 11:58:40,749 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 131: UPDATE [umbracoNode] SET [uniqueID] = 'fb85a482-166c-2a9a-3656-f789f0988169' WHERE [id] = 1081
+
+ 2016-06-07 11:58:40,750 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 132: UPDATE [umbracoNode] SET [uniqueID] = '18ae4d28-b2e4-70ae-c9d4-700d115f5687' WHERE [id] = 1082
+
+ 2016-06-07 11:58:40,752 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 133: UPDATE [umbracoNode] SET [uniqueID] = 'd8cf185c-392f-591a-6100-c1d9d9963817' WHERE [id] = 1031
+
+ 2016-06-07 11:58:40,753 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 134: UPDATE [umbracoNode] SET [uniqueID] = '16bc0049-e8f5-d321-6c76-3dfbb1367a2d' WHERE [id] = 1032
+
+ 2016-06-07 11:58:40,755 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 135: UPDATE [umbracoNode] SET [uniqueID] = '34599b89-f7f5-1535-66e0-c6fd0ea11880' WHERE [id] = 1033
+
+ 2016-06-07 11:58:40,756 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 136: UPDATE [umbracoNode] SET [uniqueID] = 'e32162de-da1c-12cb-0fe8-b389d9004ace' WHERE [id] = 1056
+
+ 2016-06-07 11:58:40,759 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 137: UPDATE [umbracoNode] SET [uniqueID] = 'cc1bf3cc-75c6-03c9-e33e-2a0b65442f16' WHERE [id] = 1062
+
+ 2016-06-07 11:58:40,760 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 138: UPDATE [umbracoNode] SET [uniqueID] = '53ce4218-3c37-cef6-74ad-4801d187211d' WHERE [id] = 1065
+
+ 2016-06-07 11:58:40,761 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 139: UPDATE [umbracoNode] SET [uniqueID] = '7507c5e0-d5f9-60a8-c06b-ec09fe763979' WHERE [id] = 1067
+
+ 2016-06-07 11:58:40,763 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 140: UPDATE [umbracoNode] SET [uniqueID] = '370ba451-5d56-be45-3c1e-338c3001d5d4' WHERE [id] = 1069
+
+ 2016-06-07 11:58:40,764 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 141: UPDATE [umbracoNode] SET [uniqueID] = '1c1fbe56-4827-0f5c-e83f-a4319c0563c9' WHERE [id] = 1075
+
+ 2016-06-07 11:58:40,766 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 142: UPDATE [umbracoNode] SET [uniqueID] = 'fb2f32b7-95b0-5fb4-44ea-3fdc499c0dea' WHERE [id] = 1077
+
+ 2016-06-07 11:58:40,767 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 143: UPDATE [umbracoNode] SET [uniqueID] = '0cf15a1e-6c55-4cd7-76a4-2bcb8e7cb175' WHERE [id] = 1089
+
+ 2016-06-07 11:58:40,769 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 144: UPDATE [umbracoNode] SET [uniqueID] = 'f3c73f4c-c3fd-a9f0-da59-c875c18da9ef' WHERE [id] = 1123
+
+ 2016-06-07 11:58:40,771 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 145: UPDATE [umbracoNode] SET [uniqueID] = 'c4ff6cef-eb21-d7c9-c83c-8e7d779b6496' WHERE [id] = 1103
+
+ 2016-06-07 11:58:40,773 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 146: UPDATE [umbracoNode] SET [uniqueID] = '7168a808-9ff1-83ab-4c58-960778c87419' WHERE [id] = 1105
+
+ 2016-06-07 11:58:40,774 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 147: UPDATE [umbracoNode] SET [uniqueID] = '6a7f9838-f95e-37cc-329a-32e1eaf5f4fc' WHERE [id] = 1119
+
+ 2016-06-07 11:58:40,776 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 148: ALTER TABLE [cmsPropertyTypeGroup] DROP CONSTRAINT [FK_cmsPropertyTypeGroup_cmsPropertyTypeGroup_id]
+
+ 2016-06-07 11:58:40,777 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 149: ALTER TABLE [cmsPropertyTypeGroup] DROP COLUMN [parentGroupId]
+
+ 2016-06-07 11:58:40,781 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 150: CREATE TABLE [umbracoDeployChecksum] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[entityType] NVARCHAR(32) NOT NULL,
+[entityGuid] UniqueIdentifier NULL,
+[entityPath] NVARCHAR(256) NULL,
+[localChecksum] NVARCHAR(32) NOT NULL,
+[compositeChecksum] NVARCHAR(32) NULL)
+
+ 2016-06-07 11:58:40,783 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 151: ALTER TABLE [umbracoDeployChecksum] ADD CONSTRAINT [PK_umbracoDeployChecksum] PRIMARY KEY ([id])
+
+ 2016-06-07 11:58:40,786 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 152: CREATE TABLE [umbracoDeployDependency] ([sourceId] INTEGER NOT NULL,
+[targetId] INTEGER NOT NULL,
+[mode] INTEGER NOT NULL)
+
+ 2016-06-07 11:58:40,787 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 153: ALTER TABLE [umbracoDeployDependency] ADD CONSTRAINT [FK_umbracoDeployDependency_umbracoDeployChecksum_id1] FOREIGN KEY ([sourceId]) REFERENCES [umbracoDeployChecksum] ([id])
+
+ 2016-06-07 11:58:40,788 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 154: ALTER TABLE [umbracoDeployDependency] ADD CONSTRAINT [FK_umbracoDeployDependency_umbracoDeployChecksum_id2] FOREIGN KEY ([targetId]) REFERENCES [umbracoDeployChecksum] ([id])
+
+ 2016-06-07 11:58:40,793 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 155: ALTER TABLE [umbracoDeployDependency] ADD CONSTRAINT [PK_umbracoDeployDependency] PRIMARY KEY ([sourceId], [targetId])
+
+ 2016-06-07 11:58:40,794 [P10488/D3/T12] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 156: CREATE UNIQUE NONCLUSTERED INDEX [IX_umbracoDeployChecksum] ON [umbracoDeployChecksum] ([entityType],[entityGuid],[entityPath])
+
+ 2016-06-07 11:58:41,329 [P10488/D3/T12] INFO  Umbraco.Web.Strategies.Migrations.OverwriteStylesheetFilesFromTempFiles - CSS file is being backed up from C:\Users\KennethBovbjerg\Desktop\AarhusWebDevCoop\AarhusWebDevCoop\css\Style.css, to C:\Users\KennethBovbjerg\Desktop\AarhusWebDevCoop\AarhusWebDevCoop\App_Data\TEMP\CssMigration\Style.css.bak before being migrated to new format
+ 2016-06-07 11:58:41,340 [P10488/D3/T12] INFO  Umbraco.Core.DatabaseContext - Database configuration status: <p>Upgrade completed!</p>
+ 2016-06-07 11:58:41,342 [P10488/D3/T12] INFO  Umbraco.Web.Install.Controllers.InstallApiController - Step completed (took 5879ms)
+ 2016-06-07 11:58:41,399 [P10488/D3/T12] INFO  Umbraco.Web.Install.Controllers.InstallApiController - Executing installation step: UmbracoVersion
+ 2016-06-07 11:58:41,415 [P10488/D3/T12] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.ICacheRefresher
+ 2016-06-07 11:58:41,443 [P10488/D3/T12] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 0 (took 27ms)
+ 2016-06-07 11:58:41,476 [P10488/D3/T12] INFO  umbraco.content - Load Xml from file...
+ 2016-06-07 11:58:41,478 [P10488/D3/T12] INFO  umbraco.content - Loaded Xml from file.
+ 2016-06-07 11:58:41,484 [P10488/D3/T12] INFO  umbraco.content - Loading content from database...
+ 2016-06-07 11:58:45,139 [P10488/D3/T18] INFO  umbraco.content - Save Xml to file...
+ 2016-06-07 11:58:45,153 [P10488/D3/T5] INFO  umbraco.content - Saved Xml to file.
+ 2016-06-07 11:58:45,162 [P10488/D3/T12] INFO  Umbraco.Core.Configuration.ClientDependencyConfiguration - Updated version number from 1 to 1486608035
+ 2016-06-07 11:58:45,209 [P10488/D3/T9] ERROR UmbracoExamine.DataServices.UmbracoLogService - Provider=InternalMemberIndexer, NodeId=-1
+System.Exception: Cannot index queue items, the index doesn't exist!,, IndexSet: InternalMemberIndexSet
+ 2016-06-07 11:58:45,209 [P10488/D3/T9] ERROR UmbracoExamine.DataServices.UmbracoLogService - Provider=InternalIndexer, NodeId=-1
+System.Exception: Cannot index queue items, the index doesn't exist!,, IndexSet: InternalIndexSet
+ 2016-06-07 11:58:45,210 [P10488/D3/T9] ERROR UmbracoExamine.DataServices.UmbracoLogService - Provider=ExternalIndexer, NodeId=-1
+System.Exception: Cannot index queue items, the index doesn't exist!,, IndexSet: ExternalIndexSet
+ 2016-06-07 11:58:48,513 [P10488/D3/T12] INFO  Umbraco.Web.Install.Controllers.InstallApiController - Step completed (took 7113ms)
+ 2016-06-07 11:58:55,986 [P10488/D4/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.4.3 application starting on KNETH-LAPTOP
+ 2016-06-07 11:58:56,027 [P10488/D4/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2016-06-07 11:58:56,046 [P10488/D4/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 18ms)
+ 2016-06-07 11:58:56,114 [P10488/D4/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+ 2016-06-07 11:58:56,130 [P10488/D4/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 0 (took 14ms)
+ 2016-06-07 11:58:56,162 [P10488/D4/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2016-06-07 11:58:56,164 [P10488/D4/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 1ms)
+ 2016-06-07 11:58:56,164 [P10488/D4/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2016-06-07 11:58:56,166 [P10488/D4/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 0 (took 2ms)
+ 2016-06-07 11:58:56,189 [P10488/D4/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+ 2016-06-07 11:58:56,192 [P10488/D4/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 3ms)
+ 2016-06-07 11:58:56,193 [P10488/D4/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+ 2016-06-07 11:58:56,201 [P10488/D4/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 0 (took 8ms)
+ 2016-06-07 11:58:56,260 [P10488/D4/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+ 2016-06-07 11:58:56,261 [P10488/D4/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 0 (took 1ms)
+ 2016-06-07 11:58:56,262 [P10488/D4/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+ 2016-06-07 11:58:56,263 [P10488/D4/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 0 (took 0ms)
+ 2016-06-07 11:58:57,377 [P10488/D4/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-06-07 11:58:57,715 [P10488/D4/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-06-07 11:58:57,721 [P10488/D4/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-06-07 11:58:57,741 [P10488/D4/T1] WARN  Umbraco.Core.Sync.DatabaseServerMessenger - No last synced Id found, this generally means this is a new server/install. The server will build its caches and indexes, and then adjust its last synced Id to the latest found in the database and maintain cache updates based on that Id.
+ 2016-06-07 11:58:57,777 [P10488/D4/T1] INFO  umbraco.content - Load Xml from file...
+ 2016-06-07 11:58:57,779 [P10488/D4/T1] INFO  umbraco.content - Loaded Xml from file.
+ 2016-06-07 11:58:57,786 [P10488/D4/T1] INFO  umbraco.content - Loading content from database...
+ 2016-06-07 11:59:00,201 [P10488/D4/T1] INFO  Umbraco.Web.Cache.CacheRefresherEventHandler - Initializing Umbraco internal event handlers for cache refreshing
+ 2016-06-07 11:59:00,223 [P10488/D4/T1] INFO  Umbraco.Web.Search.ExamineEvents - Initializing Examine and binding to business logic events
+ 2016-06-07 11:59:00,223 [P10488/D4/T1] INFO  Umbraco.Web.Search.ExamineEvents - Adding examine event handlers for index providers: 3
+ 2016-06-07 11:59:00,242 [P10488/D4/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 4354ms)
+ 2016-06-07 11:59:00,568 [P10488/D4/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+ 2016-06-07 11:59:00,815 [P10488/D4/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 0 (took 246ms)
+ 2016-06-07 11:59:04,139 [P10488/D4/T8] INFO  umbraco.content - Save Xml to file...
+ 2016-06-07 11:59:04,148 [P10488/D4/T5] INFO  umbraco.content - Saved Xml to file.
+ 2016-06-07 11:59:04,632 [P10488/D4/T5] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://localhost:24097/umbraco (UmbracoModule request)
+ 2016-06-07 11:59:13,567 [P10488/D4/T25] WARN  Umbraco.Web.UmbracoModule - Status code is 404 yet TrySkipIisCustomErrors is false - IIS will take over.
+ 2016-06-07 11:59:13,676 [P10488/D4/T25] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Trees.TreeController
+ 2016-06-07 11:59:13,691 [P10488/D4/T25] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Trees.TreeController, found 0 (took 15ms)
+ 2016-06-07 11:59:13,731 [P10488/D4/T25] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.ITree
+ 2016-06-07 11:59:13,748 [P10488/D4/T25] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.ITree, found 0 (took 16ms)
+ 2016-06-07 11:59:13,763 [P10488/D4/T25] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Trees.TreeController
+ 2016-06-07 11:59:13,768 [P10488/D4/T25] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Trees.TreeController, found 0 (took 4ms)
+ 2016-06-07 11:59:13,771 [P10488/D4/T25] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.ITree
+ 2016-06-07 11:59:13,790 [P10488/D4/T25] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.ITree, found 0 (took 19ms)
+ 2016-06-07 11:59:13,835 [P10488/D4/T25] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.IApplication
+ 2016-06-07 11:59:13,856 [P10488/D4/T25] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.IApplication, found 0 (took 20ms)
+ 2016-06-07 11:59:14,588 [P10488/D4/T25] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+ 2016-06-07 11:59:14,663 [P10488/D4/T25] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 0 (took 75ms)
+ 2016-06-07 11:59:15,378 [P10488/D3/T9] INFO  Umbraco.Core.UmbracoApplicationBase - Application shutdown. Details: ConfigurationChange
+
+_shutDownMessage=CONFIG change
+HostingEnvironment initiated shutdown
+CONFIG change
+CONFIG change
+CONFIG change
+CONFIG change
+HostingEnvironment forårsagede nedlukning
+
+_shutDownStack=   ved System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   ved System.Environment.get_StackTrace()
+   ved System.Web.Hosting.HostingEnvironment.InitiateShutdownInternal()
+   ved System.Web.Hosting.HostingEnvironment.InitiateShutdownWithoutDemand()
+   ved System.Web.HttpRuntime.ShutdownAppDomain(String stackTrace)
+   ved System.Web.Configuration.HttpConfigurationSystem.OnConfigurationChanged(Object sender, InternalConfigEventArgs e)
+   ved System.Configuration.Internal.InternalConfigRoot.OnConfigChanged(InternalConfigEventArgs e)
+   ved System.Configuration.BaseConfigurationRecord.OnStreamChanged(String streamname)
+   ved System.Web.Configuration.WebConfigurationHostFileChange.OnFileChanged(Object sender, FileChangeEvent e)
+   ved System.Web.DirectoryMonitor.FireNotifications()
+   ved System.Web.Util.WorkItem.CallCallbackWithAssert(WorkItemCallback callback)
+   ved System.Web.Util.WorkItem.OnQueueUserWorkItemCompletion(Object state)
+   ved System.Threading.QueueUserWorkItemCallback.WaitCallback_Context(Object state)
+   ved System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   ved System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   ved System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   ved System.Threading.ThreadPoolWorkQueue.Dispatch()
+   ved System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+ 2016-06-07 11:59:28,164 [P10488/D4/T11] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.cms.businesslogic.macro.IMacroEngine
+ 2016-06-07 11:59:28,183 [P10488/D4/T11] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.cms.businesslogic.macro.IMacroEngine, found 0 (took 18ms)
+ 2016-06-07 11:59:31,997 [P10488/D4/T11] WARN  Umbraco.Web.UmbracoModule - Status code is 404 yet TrySkipIisCustomErrors is false - IIS will take over.
+ 2016-06-07 11:59:41,641 [P10488/D4/T11] WARN  Umbraco.Web.Mvc.RenderRouteHandler - The current Document Type Contact matches a locally declared controller of type AarhusWebDevCoop.Controllers.ContactController. Custom Controllers for Umbraco routing must implement 'Umbraco.Web.Mvc.IRenderController' and inherit from 'System.Web.Mvc.ControllerBase'.
+ 2016-06-07 11:59:57,271 [P10488/D4/T25] WARN  Umbraco.Web.UmbracoModule - Status code is 404 yet TrySkipIisCustomErrors is false - IIS will take over.
+ 2016-06-07 12:00:04,849 [P10488/D4/T23] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2016-06-06 12:00:04
+ 2016-06-07 12:03:52,363 [P10488/D4/T9] WARN  Umbraco.Web.Mvc.RenderRouteHandler - The current Document Type Contact matches a locally declared controller of type AarhusWebDevCoop.Controllers.ContactController. Custom Controllers for Umbraco routing must implement 'Umbraco.Web.Mvc.IRenderController' and inherit from 'System.Web.Mvc.ControllerBase'.
+ 2016-06-07 12:18:09,544 [P10488/D4/T9] INFO  Umbraco.Core.Logging.OwinLogger - Event Id: 0, state: User logged will be logged out due to timeout: kenneth2503@hotmail.com, IP Address: ::1
+ 2016-06-07 23:22:48,884 [P5504/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.4.3 application starting on KNETH-LAPTOP
+ 2016-06-07 23:22:49,005 [P5504/D2/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2016-06-07 23:22:49,015 [P5504/D2/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 9ms)
+ 2016-06-07 23:22:49,133 [P5504/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+ 2016-06-07 23:22:49,856 [P5504/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 0 (took 721ms)
+ 2016-06-07 23:22:49,897 [P5504/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2016-06-07 23:22:49,909 [P5504/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 12ms)
+ 2016-06-07 23:22:49,909 [P5504/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2016-06-07 23:22:49,923 [P5504/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 0 (took 13ms)
+ 2016-06-07 23:22:49,953 [P5504/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+ 2016-06-07 23:22:49,965 [P5504/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 12ms)
+ 2016-06-07 23:22:49,982 [P5504/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+ 2016-06-07 23:22:49,995 [P5504/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 0 (took 13ms)
+ 2016-06-07 23:22:50,114 [P5504/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+ 2016-06-07 23:22:50,126 [P5504/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 0 (took 12ms)
+ 2016-06-07 23:22:50,127 [P5504/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+ 2016-06-07 23:22:50,140 [P5504/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 0 (took 12ms)
+ 2016-06-07 23:22:51,517 [P5504/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-06-07 23:22:52,025 [P5504/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-06-07 23:22:52,064 [P5504/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-06-07 23:22:52,105 [P5504/D2/T1] WARN  Umbraco.Core.Sync.DatabaseServerMessenger - No last synced Id found, this generally means this is a new server/install. The server will build its caches and indexes, and then adjust its last synced Id to the latest found in the database and maintain cache updates based on that Id.
+ 2016-06-07 23:22:52,163 [P5504/D2/T1] INFO  umbraco.content - Load Xml from file...
+ 2016-06-07 23:22:52,168 [P5504/D2/T1] INFO  umbraco.content - Loaded Xml from file.
+ 2016-06-07 23:22:52,195 [P5504/D2/T1] INFO  umbraco.content - Loading content from database...
+ 2016-06-07 23:22:55,166 [P5504/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+ 2016-06-07 23:22:55,184 [P5504/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 0 (took 18ms)
+ 2016-06-07 23:22:57,586 [P5504/D2/T1] INFO  Umbraco.Web.Cache.CacheRefresherEventHandler - Initializing Umbraco internal event handlers for cache refreshing
+ 2016-06-07 23:22:57,602 [P5504/D2/T1] INFO  Umbraco.Web.Search.ExamineEvents - Initializing Examine and binding to business logic events
+ 2016-06-07 23:22:57,603 [P5504/D2/T1] INFO  Umbraco.Web.Search.ExamineEvents - Adding examine event handlers for index providers: 3
+ 2016-06-07 23:22:57,623 [P5504/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 8809ms)
+ 2016-06-07 23:22:58,818 [P5504/D2/T12] INFO  umbraco.content - Save Xml to file...
+ 2016-06-07 23:22:58,848 [P5504/D2/T7] INFO  umbraco.content - Saved Xml to file.
+ 2016-06-07 23:23:00,569 [P5504/D2/T7] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://localhost:24097/umbraco (UmbracoModule request)
+ 2016-06-07 23:23:04,668 [P5504/D2/T7] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+ 2016-06-07 23:23:04,683 [P5504/D2/T7] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 0 (took 15ms)
+ 2016-06-07 23:23:04,875 [P5504/D2/T7] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.cms.businesslogic.macro.IMacroEngine
+ 2016-06-07 23:23:04,886 [P5504/D2/T7] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.cms.businesslogic.macro.IMacroEngine, found 0 (took 11ms)
+ 2016-06-07 23:23:09,124 [P5504/D2/T7] WARN  Umbraco.Web.UmbracoModule - Status code is 404 yet TrySkipIisCustomErrors is false - IIS will take over.
+ 2016-06-07 23:24:00,910 [P5504/D2/T19] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2016-06-06 23:24:00
+ 2016-06-07 23:27:48,260 [P5504/D2/T30] ERROR Umbraco.Core.UmbracoApplicationBase - An unhandled exception occurred
+System.FormatException: Inputstrengen var ikke i et korrekt format.
+   ved System.Text.StringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   ved System.String.FormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateSelectorsForElementsWithTagName(List`1 elements, String selectorFormatString, SelectorGroupFunction[] groupMethods, Int32 startIndex)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateSelectorsForElementsWithTagName(List`1 elements, String selectorFormatString, SelectorGroupFunction[] groupMethods, Int32 startIndex)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateSelectorsForElementsWithTagName(List`1 elements, String selectorFormatString, SelectorGroupFunction[] groupMethods, Int32 startIndex)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateSelectorsForElementsWithTagName(List`1 elements, String selectorFormatString, SelectorGroupFunction[] groupMethods, Int32 startIndex)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateSelectorsWorker(IEnumerable`1 elements, String selectorFormatString, SelectorGroupFunction[] groupMethods)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateGlobalScopeSelectors(IEnumerable`1 elements)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateSelectors(IEnumerable`1 elements)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.ProcessDataIntoJsonObjects(IEnumerable`1 renderedOutputList)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.Tracing.RequestDataHttpHandler.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   ved System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   ved System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 2016-06-07 23:27:51,614 [P5504/D2/T27] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username kenneth2503@hotmail.com from IP address ::1
+ 2016-06-07 23:27:51,617 [P5504/D2/T27] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: Kenneth2503@hotmail.com logged in from IP address ::1
+ 2016-06-07 23:27:51,870 [P5504/D2/T27] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Trees.TreeController
+ 2016-06-07 23:27:51,885 [P5504/D2/T27] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Trees.TreeController, found 0 (took 15ms)
+ 2016-06-07 23:27:52,192 [P5504/D2/T28] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.IApplication
+ 2016-06-07 23:27:52,212 [P5504/D2/T28] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.IApplication, found 0 (took 20ms)
+ 2016-06-07 23:27:52,338 [P5504/D2/T8] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.ITree
+ 2016-06-07 23:27:52,375 [P5504/D2/T8] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.ITree, found 0 (took 36ms)
+ 2016-06-07 23:27:52,404 [P5504/D2/T8] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Trees.TreeController
+ 2016-06-07 23:27:52,405 [P5504/D2/T8] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Trees.TreeController, found 0 (took 0ms)
+ 2016-06-07 23:27:52,429 [P5504/D2/T8] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.ITree
+ 2016-06-07 23:27:52,450 [P5504/D2/T8] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.ITree, found 0 (took 20ms)
+ 2016-06-07 23:28:54,194 [P5504/D2/T35] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field crops
+ 2016-06-07 23:28:54,194 [P5504/D2/T27] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field editor
+ 2016-06-07 23:28:54,195 [P5504/D2/T27] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field hideLabel
+ 2016-06-07 23:28:54,267 [P5504/D2/T37] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2016-06-07 23:28:54,413 [P5504/D2/T35] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field editor
+ 2016-06-07 23:28:54,413 [P5504/D2/T35] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field hideLabel
+ 2016-06-07 23:29:03,297 [P5504/D2/T37] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Editors.IEditorValidator
+ 2016-06-07 23:29:03,313 [P5504/D2/T37] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Editors.IEditorValidator, found 0 (took 16ms)
+ 2016-06-07 23:29:03,525 [P5504/D2/T37] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.ICacheRefresher
+ 2016-06-07 23:29:03,556 [P5504/D2/T37] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 0 (took 30ms)
+ 2016-06-07 23:29:09,552 [P5504/D2/T17] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field editor
+ 2016-06-07 23:29:09,553 [P5504/D2/T17] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field hideLabel
+ 2016-06-07 23:29:09,596 [P5504/D2/T27] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2016-06-07 23:29:49,322 [P5504/D2/T37] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2016-06-07 23:29:49,377 [P5504/D2/T8] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field editor
+ 2016-06-07 23:29:49,377 [P5504/D2/T8] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field hideLabel
+ 2016-06-07 23:30:01,843 [P5504/D2/T27] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2016-06-07 23:30:17,935 [P5504/D2/T25] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2016-06-07 23:30:25,180 [P5504/D2/T8] ERROR Umbraco.Core.Persistence.UmbracoDatabase - Database exception occurred
+System.Data.SqlServerCe.SqlCeException (0x80004005): The key cannot be deleted. The key to be deleted is already deleted from an index by another concurrent session.
+   at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommandText(IntPtr& pCursor, Boolean& isBaseTableCursor)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery() in c:\Code\github\SamSaffron\MiniProfiler\StackExchange.Profiling\Data\ProfiledDbCommand.cs:line 279
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Update(String tableName, String primaryKeyName, Object poco, Object primaryKeyValue, IEnumerable`1 columns)
+ 2016-06-07 23:30:55,838 [P5504/D2/T37] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2016-06-07 23:30:58,196 [P5504/D2/T8] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2016-06-07 23:31:06,017 [P5504/D2/T34] ERROR Umbraco.Core.Persistence.UmbracoDatabase - Database exception occurred
+System.Data.SqlServerCe.SqlCeException (0x80004005): The key cannot be deleted. The key to be deleted is already deleted from an index by another concurrent session.
+   at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommandText(IntPtr& pCursor, Boolean& isBaseTableCursor)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery() in c:\Code\github\SamSaffron\MiniProfiler\StackExchange.Profiling\Data\ProfiledDbCommand.cs:line 279
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Update(String tableName, String primaryKeyName, Object poco, Object primaryKeyValue, IEnumerable`1 columns)
+ 2016-06-07 23:31:19,054 [P5504/D2/T23] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field crops
+ 2016-06-07 23:31:19,082 [P5504/D2/T33] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field editor
+ 2016-06-07 23:31:19,082 [P5504/D2/T33] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field hideLabel
+ 2016-06-07 23:31:19,100 [P5504/D2/T35] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2016-06-07 23:31:19,282 [P5504/D2/T24] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field editor
+ 2016-06-07 23:31:19,282 [P5504/D2/T24] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field hideLabel
+ 2016-06-07 23:31:25,655 [P5504/D2/T24] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2016-06-07 23:31:48,675 [P5504/D2/T37] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2016-06-07 23:32:17,543 [P5504/D2/T35] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field editor
+ 2016-06-07 23:32:17,543 [P5504/D2/T35] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field hideLabel
+ 2016-06-07 23:32:17,594 [P5504/D2/T34] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2016-06-07 23:32:55,877 [P5504/D2/T34] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2016-06-07 23:33:10,222 [P5504/D2/T37] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2016-06-07 23:33:40,886 [P5504/D2/T19] WARN  Umbraco.Web.Mvc.RenderRouteHandler - The current Document Type Contact matches a locally declared controller of type AarhusWebDevCoop.Controllers.ContactController. Custom Controllers for Umbraco routing must implement 'Umbraco.Web.Mvc.IRenderController' and inherit from 'System.Web.Mvc.ControllerBase'.
+ 2016-06-07 23:35:23,679 [P5504/D2/T12] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Trees.TreeController
+ 2016-06-07 23:35:23,691 [P5504/D2/T12] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Trees.TreeController, found 0 (took 19ms)
+ 2016-06-07 23:35:24,245 [P5504/D2/T40] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Trees.TreeController
+ 2016-06-07 23:35:24,245 [P5504/D2/T40] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Trees.TreeController, found 0 (took 0ms)
+ 2016-06-07 23:35:25,173 [P5504/D2/T12] ERROR Umbraco.Core.UmbracoApplicationBase - An unhandled exception occurred
+System.FormatException: Inputstrengen var ikke i et korrekt format.
+   ved System.Text.StringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   ved System.String.FormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateSelectorsForElementsWithTagName(List`1 elements, String selectorFormatString, SelectorGroupFunction[] groupMethods, Int32 startIndex)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateSelectorsForElementsWithTagName(List`1 elements, String selectorFormatString, SelectorGroupFunction[] groupMethods, Int32 startIndex)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateSelectorsForElementsWithTagName(List`1 elements, String selectorFormatString, SelectorGroupFunction[] groupMethods, Int32 startIndex)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateSelectorsForElementsWithTagName(List`1 elements, String selectorFormatString, SelectorGroupFunction[] groupMethods, Int32 startIndex)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateSelectorsWorker(IEnumerable`1 elements, String selectorFormatString, SelectorGroupFunction[] groupMethods)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateGlobalScopeSelectors(IEnumerable`1 elements)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateSelectors(IEnumerable`1 elements)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.ProcessDataIntoJsonObjects(IEnumerable`1 renderedOutputList)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.Tracing.RequestDataHttpHandler.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   ved System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   ved System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 2016-06-07 23:35:28,215 [P5504/D2/T8] ERROR Umbraco.Core.UmbracoApplicationBase - An unhandled exception occurred
+System.InvalidOperationException: Cannot create a Umbraco.Core.Security.UmbracoBackOfficeIdentity from System.Security.Claims.ClaimsIdentity since the required claim http://umbraco.org/2015/02/identity/claims/backoffice/sessionid is missing
+   ved Umbraco.Core.Security.UmbracoBackOfficeIdentity.FromClaimsIdentity(ClaimsIdentity identity)
+   ved Umbraco.Web.Security.Identity.PreviewAuthenticationMiddleware.<Invoke>d__0.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Microsoft.Owin.Host.SystemWeb.IntegratedPipeline.IntegratedPipelineContextStage.<RunApp>d__5.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Microsoft.Owin.Security.Infrastructure.AuthenticationMiddleware`1.<Invoke>d__0.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Umbraco.Web.Security.Identity.GetUserSecondsMiddleWare.<Invoke>d__0.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Umbraco.Web.Security.Identity.FixWindowsAuthMiddlware.<Invoke>d__6.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Microsoft.Owin.Security.Infrastructure.AuthenticationMiddleware`1.<Invoke>d__0.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Microsoft.Owin.Security.Infrastructure.AuthenticationMiddleware`1.<Invoke>d__0.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Microsoft.AspNet.Identity.Owin.IdentityFactoryMiddleware`2.<Invoke>d__0.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Microsoft.AspNet.Identity.Owin.IdentityFactoryMiddleware`2.<Invoke>d__0.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Microsoft.Owin.Host.SystemWeb.IntegratedPipeline.IntegratedPipelineContextStage.<RunApp>d__5.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Microsoft.Owin.Host.SystemWeb.IntegratedPipeline.IntegratedPipelineContext.<DoFinalWork>d__2.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   ved Microsoft.Owin.Host.SystemWeb.Infrastructure.ErrorState.Rethrow()
+   ved Microsoft.Owin.Host.SystemWeb.IntegratedPipeline.StageAsyncResult.End(IAsyncResult ar)
+   ved Microsoft.Owin.Host.SystemWeb.IntegratedPipeline.IntegratedPipelineContext.EndFinalWork(IAsyncResult ar)
+   ved System.Web.HttpApplication.AsyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   ved System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 2016-06-07 23:35:43,846 [P5504/D2/T48] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Trees.TreeController
+ 2016-06-07 23:35:43,846 [P5504/D2/T48] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Trees.TreeController, found 0 (took 0ms)
+ 2016-06-07 23:35:44,727 [P5504/D2/T12] ERROR Umbraco.Core.UmbracoApplicationBase - An unhandled exception occurred
+System.InvalidOperationException: Cannot create a Umbraco.Core.Security.UmbracoBackOfficeIdentity from System.Security.Claims.ClaimsIdentity since the required claim http://umbraco.org/2015/02/identity/claims/backoffice/sessionid is missing
+   ved Umbraco.Core.Security.UmbracoBackOfficeIdentity.FromClaimsIdentity(ClaimsIdentity identity)
+   ved Umbraco.Web.Security.Identity.PreviewAuthenticationMiddleware.<Invoke>d__0.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Microsoft.Owin.Host.SystemWeb.IntegratedPipeline.IntegratedPipelineContextStage.<RunApp>d__5.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Microsoft.Owin.Security.Infrastructure.AuthenticationMiddleware`1.<Invoke>d__0.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Umbraco.Web.Security.Identity.GetUserSecondsMiddleWare.<Invoke>d__0.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Umbraco.Web.Security.Identity.FixWindowsAuthMiddlware.<Invoke>d__6.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Microsoft.Owin.Security.Infrastructure.AuthenticationMiddleware`1.<Invoke>d__0.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Microsoft.Owin.Security.Infrastructure.AuthenticationMiddleware`1.<Invoke>d__0.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Microsoft.AspNet.Identity.Owin.IdentityFactoryMiddleware`2.<Invoke>d__0.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Microsoft.AspNet.Identity.Owin.IdentityFactoryMiddleware`2.<Invoke>d__0.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Microsoft.Owin.Host.SystemWeb.IntegratedPipeline.IntegratedPipelineContextStage.<RunApp>d__5.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Microsoft.Owin.Host.SystemWeb.IntegratedPipeline.IntegratedPipelineContext.<DoFinalWork>d__2.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   ved Microsoft.Owin.Host.SystemWeb.Infrastructure.ErrorState.Rethrow()
+   ved Microsoft.Owin.Host.SystemWeb.IntegratedPipeline.StageAsyncResult.End(IAsyncResult ar)
+   ved Microsoft.Owin.Host.SystemWeb.IntegratedPipeline.IntegratedPipelineContext.EndFinalWork(IAsyncResult ar)
+   ved System.Web.HttpApplication.AsyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   ved System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 2016-06-07 23:35:59,474 [P5504/D2/T8] ERROR Umbraco.Core.UmbracoApplicationBase - An unhandled exception occurred
+System.InvalidOperationException: Cannot create a Umbraco.Core.Security.UmbracoBackOfficeIdentity from System.Security.Claims.ClaimsIdentity since the required claim http://umbraco.org/2015/02/identity/claims/backoffice/sessionid is missing
+   ved Umbraco.Core.Security.UmbracoBackOfficeIdentity.FromClaimsIdentity(ClaimsIdentity identity)
+   ved Umbraco.Web.Security.Identity.PreviewAuthenticationMiddleware.<Invoke>d__0.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Microsoft.Owin.Host.SystemWeb.IntegratedPipeline.IntegratedPipelineContextStage.<RunApp>d__5.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Microsoft.Owin.Security.Infrastructure.AuthenticationMiddleware`1.<Invoke>d__0.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Umbraco.Web.Security.Identity.GetUserSecondsMiddleWare.<Invoke>d__0.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Umbraco.Web.Security.Identity.FixWindowsAuthMiddlware.<Invoke>d__6.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Microsoft.Owin.Security.Infrastructure.AuthenticationMiddleware`1.<Invoke>d__0.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Microsoft.Owin.Security.Infrastructure.AuthenticationMiddleware`1.<Invoke>d__0.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Microsoft.AspNet.Identity.Owin.IdentityFactoryMiddleware`2.<Invoke>d__0.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Microsoft.AspNet.Identity.Owin.IdentityFactoryMiddleware`2.<Invoke>d__0.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Microsoft.Owin.Host.SystemWeb.IntegratedPipeline.IntegratedPipelineContextStage.<RunApp>d__5.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ved System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   ved Microsoft.Owin.Host.SystemWeb.IntegratedPipeline.IntegratedPipelineContext.<DoFinalWork>d__2.MoveNext()
+--- Afslutningen på staksporingen fra den tidligere placering, hvor undtagelsen blev udløst ---
+   ved System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   ved Microsoft.Owin.Host.SystemWeb.Infrastructure.ErrorState.Rethrow()
+   ved Microsoft.Owin.Host.SystemWeb.IntegratedPipeline.StageAsyncResult.End(IAsyncResult ar)
+   ved Microsoft.Owin.Host.SystemWeb.IntegratedPipeline.IntegratedPipelineContext.EndFinalWork(IAsyncResult ar)
+   ved System.Web.HttpApplication.AsyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   ved System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)

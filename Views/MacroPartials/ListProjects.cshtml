@@ -1,0 +1,15 @@
+﻿@inherits Umbraco.Web.Macros.PartialViewMacroPage
+
+	@{ var selection = CurrentPage.Site().FirstChild("ProjectsMain").Children("ProjectsItem").Where("Visible"); }
+
+    @if (selection.Any())
+    {
+        <ul class="dropdown-menu" role="menu">
+            @foreach (var item in selection)
+            {
+                <li>
+                    <a href="@item.Url">@item.Name</a>
+                </li>
+            }
+        </ul>
+    }

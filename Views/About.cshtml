@@ -1,0 +1,36 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "Master.cshtml";
+}
+
+<div class="wrapper">
+    <h2 class="textHeadline">@Umbraco.Field("aboutTitle")</h2>
+</div>
+<div class="col-md-12 wrapper">
+@if (CurrentPage.HasValue("aboutImage"))
+    {
+        <img src='@CurrentPage.aboutImage.src' width="100%" height="250px" alt="image" />
+    }
+
+    <p margin-top="10px">@Umbraco.Field("aboutText")</p>
+</div>
+		
+<div class="col-md-12" >
+    <div class="col-md-4 wrapper" style="height: 150px">
+		<h3 class="textHeadline">Vision</h3>
+		<p>We have a vision to not only be the best at what we do, but also to be the most desiable choice, no matter what!</p>
+    </div>
+		
+    <div class="col-md-4 wrapper" style="height: 150px">
+		<h3 class="textHeadline">People</h3>
+		<p>Rasmus Gaardsted Davidsen</p>
+		<p>Steffen Riis</p>
+		<p>Kenneth Bovbjerg Thøgersen</p>
+		
+    </div>
+		
+    <div class="col-md-4 wrapper" style="height: 150px">
+		<h3 class="textHeadline">Skills</h3>
+		<p>We are the very best at what we do! and we are humble about it!</p>
+    </div>
+</div>

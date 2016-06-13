@@ -1,0 +1,48 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+
+@using (Html.BeginUmbracoForm<AcuIT.Controllers.ContactController>("ContactForm", new { RedirectPage = 1064 }))
+{
+<div class="row">
+    <div class="small-10">
+        <div class="row">
+            <div class="small-3 columns">
+                <label for="Name" class="right inline">Name</label>
+            </div>
+            <div class="small-9 columns">
+                <input type="text" placeholder="Your name" id="Name" name="Name" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="small-3 columns">
+                <label for="Email" class="right inline">Email</label>
+            </div>
+            <div class="small-9 columns">
+                <input type="email" placeholder="Your email address" id="Email" name="Email" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="small-3 columns">
+                <label for="Subject" class="right inline">Subject</label>
+            </div>
+            <div class="small-9 columns">
+                <input type="text" placeholder="Regarding..." id="Subject" name="Subject" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="small-3 columns">
+                <label for="Message" class="right inline">Message</label>
+            </div>
+            <div class="small-9 columns">
+                <textarea id="Message" name="Message"></textarea>
+            </div>
+        </div>
+    </div>
+    <div class="small-10">
+        <div class="row">
+            <div class="small-9 small-offset-3 columns">
+                <input type="submit" class="button tiny" value="Send" />
+            </div>
+        </div>
+    </div>
+</div>
+}

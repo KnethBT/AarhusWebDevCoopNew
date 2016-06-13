@@ -1,0 +1,28 @@
+﻿@inherits Umbraco.Web.Macros.PartialViewMacroPage
+	
+@{ var	root = CurrentPage.AncestorOrSelf(1); }
+
+
+<ul class="nav navbar-nav">
+	<li class="@(CurrentPage.Name == root.Name ? "active" : null)">
+		<a href="/">@root.Name</a>
+	</li>
+	
+	@foreach (var menuItem in root.Children.Where("Visible")) 
+	{
+		if (menuItem.Name == "Project List")
+		{
+			<li class="@(menuItem.IsAncestorOrSelf(CurrentPage) ? "active" : null) dropdown">
+                    <a href="/projects" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Projects <span class="caret"></span></a>
+                    @Umbraco.RenderMacro("listAllProjects")
+            </li>
+		}
+		else
+		{
+			<li class="@(menuItem.IsAncestorOrSelf(CurrentPage) ? "active" : null)" >
+				<a href="@menuItem.Url">@menuItem.Name</a>
+			</li>
+		}
+			
+	}
+</ul>

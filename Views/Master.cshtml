@@ -1,0 +1,41 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = null;
+}
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<title>@Umbraco.Field("pageTitle")</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+
+	<link rel="stylesheet" href="/css/style.css">
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+
+<body>	
+ 	<nav class="navbar navbar-inverse navbar-static-top">
+        <ul class="nav navbar-nav navbar-left">
+			@Umbraco.RenderMacro("mainmenu")
+        </ul>
+    </nav>
+			
+	<div class="container">
+		@RenderBody() <!-- Alle under siders content vil være her! -->
+	</div>
+			
+	<footer class="navbar navbar-fixed-bottom" id="myFooter">
+    	<div class="navbar-inverse" id="divFooter">
+			<p class="text-center textNormal">@Umbraco.Field("footerText")<p>
+		</div>
+	</footer>
+			
+	<script src="~/Scripts/jquery-2.1.4.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+</body>

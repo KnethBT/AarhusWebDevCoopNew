@@ -1,0 +1,259 @@
+﻿2016-03-01 13:09:06,228 [10] INFO  Umbraco.Core.CoreBootManager - [P1892/T1/D2] Umbraco 7.2.8 application starting on KNETH-LAPTOP
+2016-03-01 13:09:06,310 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Determining hash of code files on disk
+2016-03-01 13:09:06,326 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Hash determined (took 14ms)
+2016-03-01 13:09:06,350 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2016-03-01 13:09:06,784 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 37 (took 433ms)
+2016-03-01 13:09:06,860 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2016-03-01 13:09:06,870 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 10ms)
+2016-03-01 13:09:06,871 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2016-03-01 13:09:06,881 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 10ms)
+2016-03-01 13:09:06,903 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2016-03-01 13:09:06,916 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 5 (took 13ms)
+2016-03-01 13:09:06,917 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2016-03-01 13:09:06,928 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 11ms)
+2016-03-01 13:09:06,992 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2016-03-01 13:09:07,005 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 12ms)
+2016-03-01 13:09:07,005 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2016-03-01 13:09:07,025 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 18ms)
+2016-03-01 13:09:07,806 [10] INFO  Umbraco.Core.DatabaseContext - [P1892/T1/D2] CanConnect = True
+2016-03-01 13:09:07,821 [10] INFO  Umbraco.Web.Cache.CacheRefresherEventHandler - [P1892/T1/D2] Initializing Umbraco internal event handlers for cache refreshing
+2016-03-01 13:09:07,835 [10] INFO  Umbraco.Web.Search.ExamineEvents - [P1892/T1/D2] Initializing Examine and binding to business logic events
+2016-03-01 13:09:07,880 [10] INFO  Umbraco.Web.Search.ExamineEvents - [P1892/T1/D2] Adding examine event handlers for index providers: 3
+2016-03-01 13:09:07,886 [10] INFO  Umbraco.Core.CoreBootManager - [P1892/T1/D2] Umbraco application startup complete (took 1617ms)
+2016-03-01 13:09:08,484 [10] INFO  Umbraco.Core.ApplicationContext - [P1892/T1/D2] ApplicationUrl: http://localhost:24097/umbraco (UmbracoModule request)
+2016-03-01 13:09:08,566 [10] INFO  umbraco.content - [P1892/T1/D2] Load Xml from file...
+2016-03-01 13:09:08,568 [10] INFO  umbraco.content - [P1892/T1/D2] Loaded Xml from file.
+2016-03-01 13:09:08,798 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2016-03-01 13:09:08,813 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 23 (took 13ms)
+2016-03-01 13:09:11,359 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2016-03-01 13:09:11,377 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 44 (took 18ms)
+2016-03-01 13:09:18,586 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Starting resolution types of umbraco.cms.businesslogic.macro.IMacroEngine
+2016-03-01 13:09:18,605 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Completed resolution of types of umbraco.cms.businesslogic.macro.IMacroEngine, found 2 (took 19ms)
+2016-03-01 13:09:36,477 [10] INFO  Umbraco.Core.Security.UmbracoMembershipProviderBase - [P1892/T1/D2] Login attempt failed for username Kenneth2503@hotmail.com from IP address ::1, the user does not exist
+2016-03-01 13:09:36,480 [10] INFO  Umbraco.Web.Mvc.UmbracoPageResult - [P1892/T1/D2] Executing Umbraco RouteDefinition controller
+2016-03-01 13:09:36,545 [10] WARN  umbraco.macro - [P1892/T1/D2] Error loading partial view macro (View: ~/Views/MacroPartials/MainMenu.cshtml). Exception: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Enumerator.MoveNext()
+   at System.Web.Mvc.ModelStateDictionary.Merge(ModelStateDictionary dictionary)
+   at Umbraco.Web.Mvc.ControllerExtensions.EnsureViewObjectDataOnResult(ControllerBase controller, ViewResultBase result)
+   at Umbraco.Web.Mvc.ControllerExtensions.RenderViewResultAsString(ControllerBase controller, ViewResultBase viewResult)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, IPublishedContent content)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, INode node)
+   at umbraco.macro.LoadPartialViewMacro(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2016-03-01 13:09:36,546 [10] WARN  umbraco.macro - [P1892/T1/D2] Error loading Partial View (file: ~/Views/MacroPartials/MainMenu.cshtml). Exception: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Enumerator.MoveNext()
+   at System.Web.Mvc.ModelStateDictionary.Merge(ModelStateDictionary dictionary)
+   at Umbraco.Web.Mvc.ControllerExtensions.EnsureViewObjectDataOnResult(ControllerBase controller, ViewResultBase result)
+   at Umbraco.Web.Mvc.ControllerExtensions.RenderViewResultAsString(ControllerBase controller, ViewResultBase viewResult)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, IPublishedContent content)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, INode node)
+   at umbraco.macro.LoadPartialViewMacro(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2016-03-01 13:09:36,549 [10] INFO  Umbraco.Web.Mvc.UmbracoPageResult - [P1892/T1/D2] Finished (took 69ms)
+2016-03-01 13:09:48,145 [10] INFO  Umbraco.Core.Security.UmbracoMembershipProviderBase - [P1892/T1/D2] Login attempt failed for username kenneth from IP address ::1, the user does not exist
+2016-03-01 13:09:48,145 [10] INFO  Umbraco.Web.Mvc.UmbracoPageResult - [P1892/T1/D2] Executing Umbraco RouteDefinition controller
+2016-03-01 13:09:48,190 [10] WARN  umbraco.macro - [P1892/T1/D2] Error loading partial view macro (View: ~/Views/MacroPartials/MainMenu.cshtml). Exception: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Enumerator.MoveNext()
+   at System.Web.Mvc.ModelStateDictionary.Merge(ModelStateDictionary dictionary)
+   at Umbraco.Web.Mvc.ControllerExtensions.EnsureViewObjectDataOnResult(ControllerBase controller, ViewResultBase result)
+   at Umbraco.Web.Mvc.ControllerExtensions.RenderViewResultAsString(ControllerBase controller, ViewResultBase viewResult)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, IPublishedContent content)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, INode node)
+   at umbraco.macro.LoadPartialViewMacro(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2016-03-01 13:09:48,190 [10] WARN  umbraco.macro - [P1892/T1/D2] Error loading Partial View (file: ~/Views/MacroPartials/MainMenu.cshtml). Exception: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Enumerator.MoveNext()
+   at System.Web.Mvc.ModelStateDictionary.Merge(ModelStateDictionary dictionary)
+   at Umbraco.Web.Mvc.ControllerExtensions.EnsureViewObjectDataOnResult(ControllerBase controller, ViewResultBase result)
+   at Umbraco.Web.Mvc.ControllerExtensions.RenderViewResultAsString(ControllerBase controller, ViewResultBase viewResult)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, IPublishedContent content)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, INode node)
+   at umbraco.macro.LoadPartialViewMacro(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2016-03-01 13:09:48,191 [10] INFO  Umbraco.Web.Mvc.UmbracoPageResult - [P1892/T1/D2] Finished (took 46ms)
+2016-03-01 13:09:57,807 [10] ERROR Umbraco.Core.UmbracoApplicationBase - [P1892/T1/D2] An unhandled exception occurred
+System.FormatException: Inputstrengen var ikke i et korrekt format.
+   ved System.Text.StringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   ved System.String.FormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateSelectorsForElementsWithTagName(List`1 elements, String selectorFormatString, SelectorGroupFunction[] groupMethods, Int32 startIndex)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateSelectorsForElementsWithTagName(List`1 elements, String selectorFormatString, SelectorGroupFunction[] groupMethods, Int32 startIndex)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateSelectorsForElementsWithTagName(List`1 elements, String selectorFormatString, SelectorGroupFunction[] groupMethods, Int32 startIndex)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateSelectorsForElementsWithTagName(List`1 elements, String selectorFormatString, SelectorGroupFunction[] groupMethods, Int32 startIndex)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateSelectorsWorker(IEnumerable`1 elements, String selectorFormatString, SelectorGroupFunction[] groupMethods)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateGlobalScopeSelectors(IEnumerable`1 elements)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateSelectors(IEnumerable`1 elements)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.ProcessDataIntoJsonObjects(IEnumerable`1 renderedOutputList)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.Tracing.RequestDataHttpHandler.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   ved System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   ved System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2016-03-01 13:09:57,939 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Starting resolution types of Umbraco.Web.Trees.TreeController
+2016-03-01 13:09:57,950 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 11ms)
+2016-03-01 13:09:58,002 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Starting resolution types of umbraco.interfaces.ITree
+2016-03-01 13:09:58,029 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 26ms)
+2016-03-01 13:09:58,042 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Starting resolution types of Umbraco.Web.Trees.TreeController
+2016-03-01 13:09:58,043 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2016-03-01 13:09:58,047 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Starting resolution types of umbraco.interfaces.ITree
+2016-03-01 13:09:58,082 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 35ms)
+2016-03-01 13:09:58,102 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Starting resolution types of umbraco.interfaces.IApplication
+2016-03-01 13:09:58,141 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 38ms)
+2016-03-01 13:10:19,662 [10] INFO  umbraco.BusinessLogic.Log - [P1892/T1/D2] Log scrubbed.  Removed all items older than 2016-01-01 13:10:19
+2016-03-01 13:11:14,243 [10] INFO  Umbraco.Core.Security.UmbracoMembershipProviderBase - [P1892/T1/D2] Login attempt failed for username kenneth2503@hotmail.com from IP address ::1, the user does not exist
+2016-03-01 13:11:14,243 [10] INFO  Umbraco.Web.Mvc.UmbracoPageResult - [P1892/T1/D2] Executing Umbraco RouteDefinition controller
+2016-03-01 13:11:14,280 [10] WARN  umbraco.macro - [P1892/T1/D2] Error loading partial view macro (View: ~/Views/MacroPartials/MainMenu.cshtml). Exception: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Enumerator.MoveNext()
+   at System.Web.Mvc.ModelStateDictionary.Merge(ModelStateDictionary dictionary)
+   at Umbraco.Web.Mvc.ControllerExtensions.EnsureViewObjectDataOnResult(ControllerBase controller, ViewResultBase result)
+   at Umbraco.Web.Mvc.ControllerExtensions.RenderViewResultAsString(ControllerBase controller, ViewResultBase viewResult)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, IPublishedContent content)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, INode node)
+   at umbraco.macro.LoadPartialViewMacro(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2016-03-01 13:11:14,280 [10] WARN  umbraco.macro - [P1892/T1/D2] Error loading Partial View (file: ~/Views/MacroPartials/MainMenu.cshtml). Exception: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Enumerator.MoveNext()
+   at System.Web.Mvc.ModelStateDictionary.Merge(ModelStateDictionary dictionary)
+   at Umbraco.Web.Mvc.ControllerExtensions.EnsureViewObjectDataOnResult(ControllerBase controller, ViewResultBase result)
+   at Umbraco.Web.Mvc.ControllerExtensions.RenderViewResultAsString(ControllerBase controller, ViewResultBase viewResult)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, IPublishedContent content)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, INode node)
+   at umbraco.macro.LoadPartialViewMacro(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2016-03-01 13:11:14,280 [10] INFO  Umbraco.Web.Mvc.UmbracoPageResult - [P1892/T1/D2] Finished (took 38ms)
+2016-03-01 13:11:16,790 [10] INFO  Umbraco.Core.Security.UmbracoMembershipProviderBase - [P1892/T1/D2] Login attempt failed for username kenneth2503@hotmail.com from IP address ::1, the user does not exist
+2016-03-01 13:11:16,790 [10] INFO  Umbraco.Web.Mvc.UmbracoPageResult - [P1892/T1/D2] Executing Umbraco RouteDefinition controller
+2016-03-01 13:11:16,833 [10] WARN  umbraco.macro - [P1892/T1/D2] Error loading partial view macro (View: ~/Views/MacroPartials/MainMenu.cshtml). Exception: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Enumerator.MoveNext()
+   at System.Web.Mvc.ModelStateDictionary.Merge(ModelStateDictionary dictionary)
+   at Umbraco.Web.Mvc.ControllerExtensions.EnsureViewObjectDataOnResult(ControllerBase controller, ViewResultBase result)
+   at Umbraco.Web.Mvc.ControllerExtensions.RenderViewResultAsString(ControllerBase controller, ViewResultBase viewResult)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, IPublishedContent content)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, INode node)
+   at umbraco.macro.LoadPartialViewMacro(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2016-03-01 13:11:16,833 [10] WARN  umbraco.macro - [P1892/T1/D2] Error loading Partial View (file: ~/Views/MacroPartials/MainMenu.cshtml). Exception: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Enumerator.MoveNext()
+   at System.Web.Mvc.ModelStateDictionary.Merge(ModelStateDictionary dictionary)
+   at Umbraco.Web.Mvc.ControllerExtensions.EnsureViewObjectDataOnResult(ControllerBase controller, ViewResultBase result)
+   at Umbraco.Web.Mvc.ControllerExtensions.RenderViewResultAsString(ControllerBase controller, ViewResultBase viewResult)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, IPublishedContent content)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, INode node)
+   at umbraco.macro.LoadPartialViewMacro(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2016-03-01 13:11:16,834 [10] INFO  Umbraco.Web.Mvc.UmbracoPageResult - [P1892/T1/D2] Finished (took 43ms)
+2016-03-01 13:11:20,251 [10] INFO  Umbraco.Core.Security.UmbracoMembershipProviderBase - [P1892/T1/D2] Login attempt failed for username kenneth2503@hotmail.com from IP address ::1, the user does not exist
+2016-03-01 13:11:20,251 [10] INFO  Umbraco.Web.Mvc.UmbracoPageResult - [P1892/T1/D2] Executing Umbraco RouteDefinition controller
+2016-03-01 13:11:20,287 [10] WARN  umbraco.macro - [P1892/T1/D2] Error loading partial view macro (View: ~/Views/MacroPartials/MainMenu.cshtml). Exception: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Enumerator.MoveNext()
+   at System.Web.Mvc.ModelStateDictionary.Merge(ModelStateDictionary dictionary)
+   at Umbraco.Web.Mvc.ControllerExtensions.EnsureViewObjectDataOnResult(ControllerBase controller, ViewResultBase result)
+   at Umbraco.Web.Mvc.ControllerExtensions.RenderViewResultAsString(ControllerBase controller, ViewResultBase viewResult)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, IPublishedContent content)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, INode node)
+   at umbraco.macro.LoadPartialViewMacro(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2016-03-01 13:11:20,287 [10] WARN  umbraco.macro - [P1892/T1/D2] Error loading Partial View (file: ~/Views/MacroPartials/MainMenu.cshtml). Exception: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Enumerator.MoveNext()
+   at System.Web.Mvc.ModelStateDictionary.Merge(ModelStateDictionary dictionary)
+   at Umbraco.Web.Mvc.ControllerExtensions.EnsureViewObjectDataOnResult(ControllerBase controller, ViewResultBase result)
+   at Umbraco.Web.Mvc.ControllerExtensions.RenderViewResultAsString(ControllerBase controller, ViewResultBase viewResult)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, IPublishedContent content)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, INode node)
+   at umbraco.macro.LoadPartialViewMacro(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2016-03-01 13:11:20,288 [10] INFO  Umbraco.Web.Mvc.UmbracoPageResult - [P1892/T1/D2] Finished (took 36ms)
+2016-03-01 13:11:37,242 [10] INFO  Umbraco.Core.Security.UmbracoMembershipProviderBase - [P1892/T1/D2] Login attempt failed for username kenneth2503@hotmail.com from IP address ::1, the user does not exist
+2016-03-01 13:11:37,242 [10] INFO  Umbraco.Web.Mvc.UmbracoPageResult - [P1892/T1/D2] Executing Umbraco RouteDefinition controller
+2016-03-01 13:11:37,280 [10] WARN  umbraco.macro - [P1892/T1/D2] Error loading partial view macro (View: ~/Views/MacroPartials/MainMenu.cshtml). Exception: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Enumerator.MoveNext()
+   at System.Web.Mvc.ModelStateDictionary.Merge(ModelStateDictionary dictionary)
+   at Umbraco.Web.Mvc.ControllerExtensions.EnsureViewObjectDataOnResult(ControllerBase controller, ViewResultBase result)
+   at Umbraco.Web.Mvc.ControllerExtensions.RenderViewResultAsString(ControllerBase controller, ViewResultBase viewResult)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, IPublishedContent content)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, INode node)
+   at umbraco.macro.LoadPartialViewMacro(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2016-03-01 13:11:37,280 [10] WARN  umbraco.macro - [P1892/T1/D2] Error loading Partial View (file: ~/Views/MacroPartials/MainMenu.cshtml). Exception: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Enumerator.MoveNext()
+   at System.Web.Mvc.ModelStateDictionary.Merge(ModelStateDictionary dictionary)
+   at Umbraco.Web.Mvc.ControllerExtensions.EnsureViewObjectDataOnResult(ControllerBase controller, ViewResultBase result)
+   at Umbraco.Web.Mvc.ControllerExtensions.RenderViewResultAsString(ControllerBase controller, ViewResultBase viewResult)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, IPublishedContent content)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, INode node)
+   at umbraco.macro.LoadPartialViewMacro(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2016-03-01 13:11:37,281 [10] INFO  Umbraco.Web.Mvc.UmbracoPageResult - [P1892/T1/D2] Finished (took 38ms)
+2016-03-01 13:11:48,778 [10] INFO  Umbraco.Core.Security.UmbracoMembershipProviderBase - [P1892/T1/D2] Login attempt failed for username Kenneth from IP address ::1, the user does not exist
+2016-03-01 13:11:48,778 [10] INFO  Umbraco.Web.Mvc.UmbracoPageResult - [P1892/T1/D2] Executing Umbraco RouteDefinition controller
+2016-03-01 13:11:48,816 [10] WARN  umbraco.macro - [P1892/T1/D2] Error loading partial view macro (View: ~/Views/MacroPartials/MainMenu.cshtml). Exception: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Enumerator.MoveNext()
+   at System.Web.Mvc.ModelStateDictionary.Merge(ModelStateDictionary dictionary)
+   at Umbraco.Web.Mvc.ControllerExtensions.EnsureViewObjectDataOnResult(ControllerBase controller, ViewResultBase result)
+   at Umbraco.Web.Mvc.ControllerExtensions.RenderViewResultAsString(ControllerBase controller, ViewResultBase viewResult)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, IPublishedContent content)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, INode node)
+   at umbraco.macro.LoadPartialViewMacro(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2016-03-01 13:11:48,816 [10] WARN  umbraco.macro - [P1892/T1/D2] Error loading Partial View (file: ~/Views/MacroPartials/MainMenu.cshtml). Exception: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Enumerator.MoveNext()
+   at System.Web.Mvc.ModelStateDictionary.Merge(ModelStateDictionary dictionary)
+   at Umbraco.Web.Mvc.ControllerExtensions.EnsureViewObjectDataOnResult(ControllerBase controller, ViewResultBase result)
+   at Umbraco.Web.Mvc.ControllerExtensions.RenderViewResultAsString(ControllerBase controller, ViewResultBase viewResult)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, IPublishedContent content)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, INode node)
+   at umbraco.macro.LoadPartialViewMacro(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2016-03-01 13:11:48,817 [10] INFO  Umbraco.Web.Mvc.UmbracoPageResult - [P1892/T1/D2] Finished (took 39ms)
+2016-03-01 13:11:58,141 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Starting resolution types of Umbraco.Web.Trees.TreeController
+2016-03-01 13:11:58,141 [10] INFO  Umbraco.Core.PluginManager - [P1892/T1/D2] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2016-03-01 13:11:58,214 [10] ERROR Umbraco.Core.UmbracoApplicationBase - [P1892/T1/D2] An unhandled exception occurred
+System.FormatException: Inputstrengen var ikke i et korrekt format.
+   ved System.Text.StringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   ved System.String.FormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateSelectorsForElementsWithTagName(List`1 elements, String selectorFormatString, SelectorGroupFunction[] groupMethods, Int32 startIndex)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateSelectorsForElementsWithTagName(List`1 elements, String selectorFormatString, SelectorGroupFunction[] groupMethods, Int32 startIndex)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateSelectorsForElementsWithTagName(List`1 elements, String selectorFormatString, SelectorGroupFunction[] groupMethods, Int32 startIndex)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateSelectorsForElementsWithTagName(List`1 elements, String selectorFormatString, SelectorGroupFunction[] groupMethods, Int32 startIndex)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateSelectorsWorker(IEnumerable`1 elements, String selectorFormatString, SelectorGroupFunction[] groupMethods)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateGlobalScopeSelectors(IEnumerable`1 elements)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.GenerateSelectors(IEnumerable`1 elements)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.MappingData.MappingDataUtilities.ProcessDataIntoJsonObjects(IEnumerable`1 renderedOutputList)
+   ved Microsoft.VisualStudio.Web.PageInspector.Runtime.Tracing.RequestDataHttpHandler.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   ved System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   ved System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2016-03-01 13:12:04,792 [10] INFO  Umbraco.Core.Security.UmbracoMembershipProviderBase - [P1892/T1/D2] Login attempt failed for username user1 from IP address ::1
+2016-03-01 13:12:04,855 [10] INFO  Umbraco.Web.Mvc.UmbracoPageResult - [P1892/T1/D2] Executing Umbraco RouteDefinition controller
+2016-03-01 13:12:04,892 [10] WARN  umbraco.macro - [P1892/T1/D2] Error loading partial view macro (View: ~/Views/MacroPartials/MainMenu.cshtml). Exception: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Enumerator.MoveNext()
+   at System.Web.Mvc.ModelStateDictionary.Merge(ModelStateDictionary dictionary)
+   at Umbraco.Web.Mvc.ControllerExtensions.EnsureViewObjectDataOnResult(ControllerBase controller, ViewResultBase result)
+   at Umbraco.Web.Mvc.ControllerExtensions.RenderViewResultAsString(ControllerBase controller, ViewResultBase viewResult)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, IPublishedContent content)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, INode node)
+   at umbraco.macro.LoadPartialViewMacro(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2016-03-01 13:12:04,893 [10] WARN  umbraco.macro - [P1892/T1/D2] Error loading Partial View (file: ~/Views/MacroPartials/MainMenu.cshtml). Exception: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Enumerator.MoveNext()
+   at System.Web.Mvc.ModelStateDictionary.Merge(ModelStateDictionary dictionary)
+   at Umbraco.Web.Mvc.ControllerExtensions.EnsureViewObjectDataOnResult(ControllerBase controller, ViewResultBase result)
+   at Umbraco.Web.Mvc.ControllerExtensions.RenderViewResultAsString(ControllerBase controller, ViewResultBase viewResult)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, IPublishedContent content)
+   at Umbraco.Web.Macros.PartialViewMacroEngine.Execute(MacroModel macro, INode node)
+   at umbraco.macro.LoadPartialViewMacro(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2016-03-01 13:12:04,893 [10] INFO  Umbraco.Web.Mvc.UmbracoPageResult - [P1892/T1/D2] Finished (took 38ms)
+2016-03-01 13:12:12,860 [10] INFO  Umbraco.Core.Security.UmbracoMembershipProviderBase - [P1892/T1/D2] Login attempt succeeded for username user1 from IP address ::1

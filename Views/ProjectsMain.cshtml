@@ -1,0 +1,28 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "Master.cshtml";
+	
+	<H1 class="textHeadline">Project</H1>
+}
+
+
+@{ var selection = CurrentPage.Site().FirstChild("ProjectsMain").Children("ProjectsItem").Where("Visible"); }
+
+<table class="wrapper table">
+	<tr>
+		<th class="textHeadline">Project Name</th>
+		<th class="textHeadline">Project Description</th>
+		<th class="textHeadline">Project Status</th>
+	</tr>
+	@if (selection.Any())
+	{
+		foreach (var item in selection)
+		{
+			<tr>
+					<td class="textHeadline" style="font-weight:normal"><a href="@item.Url" class="textLink">@item.name</a></td>
+					<td>@item.Projectbody</td>
+					<td class="textNormal">@item.projectstatus</td>
+			</tr>
+		}
+	}		
+</table>
